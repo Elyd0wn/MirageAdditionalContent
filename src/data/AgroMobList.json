@@ -1,0 +1,750 @@
+{
+  "54":{
+     "name":"Chafer",
+     "area":1
+  },
+  "64":{
+     "name":"Wabbit",
+     "area":1
+  },
+  "65":{
+     "name":"Black Wabbit",
+     "area":1
+  },
+  "68":{
+     "name":"Black Tiwabbit",
+     "area":1
+  },
+  "72":{
+     "name":"Tiwabbit Kiafin",
+     "area":1
+  },
+  "74":{
+     "name":"Bwork Archer",
+     "area":1
+  },
+  "75":{
+     "name":"DragOeuf Doré Immature",
+     "area":1
+  },
+  "76":{
+     "name":"DragOeuf Blanc",
+     "area":1
+  },
+  "82":{
+     "name":"DragOeuf Noir Immature",
+     "area":1
+  },
+  "87":{
+     "name":"DragOeuf Doré",
+     "area":1
+  },
+  "88":{
+     "name":"DragOeuf de Saphir",
+     "area":1
+  },
+  "89":{
+     "name":"DragOeuf Noir",
+     "area":1
+  },
+  "90":{
+     "name":"DragOeuf Blanc Immature",
+     "area":1
+  },
+  "91":{
+     "name":"DragOeuf Noir Éveillé",
+     "area":1
+  },
+  "93":{
+     "name":"DragOeuf Blanc Éveillé",
+     "area":1
+  },
+  "94":{
+     "name":"DragOeuf Doré Éveillé",
+     "area":1
+  },
+  "95":{
+     "name":"DragOeuf de Saphir Éveillé",
+     "area":1
+  },
+  "96":{
+     "name":"Tiwabbit",
+     "area":1
+  },
+  "97":{
+     "name":"Wo Wabbit",
+     "area":1
+  },
+  "99":{
+     "name":"Grand Pa Wabbit",
+     "area":1
+  },
+  "102":{
+     "name":"Mulou",
+     "area":1
+  },
+  "107":{
+     "name":"Dark Vlad",
+     "area":1
+  },
+  "108":{
+     "name":"Rib",
+     "area":1
+  },
+  "110":{
+     "name":"Chafer Invisible",
+     "area":1
+  },
+  "111":{
+     "name":"Tofu Maléfique",
+     "area":1
+  },
+  "113":{
+     "name":"Dragon Cochon",
+     "area":1
+  },
+  "123":{
+     "name":"Cochon de Lait",
+     "area":1
+  },
+  "124":{
+     "name":"Maître Vampire",
+     "area":1
+  },
+  "127":{
+     "name":"Vampire",
+     "area":1
+  },
+  "155":{
+     "name":"Bandit du clan des Roublards",
+     "area":1
+  },
+  "157":{
+     "name":"Araknelle",
+     "area":1
+  },
+  "170":{
+     "name":"DragOeuf de Saphir Immature",
+     "area":1
+  },
+  "171":{
+     "name":"Dragodinde Amande Sauvage",
+     "area":1
+  },
+  "173":{
+     "name":"Abraknyde Ancestral",
+     "area":1
+  },
+  "178":{
+     "name":"Gobelin",
+     "area":1
+  },
+  "179":{
+     "name":"Wabbit Squelette",
+     "area":1
+  },
+  "180":{
+     "name":"Wa Wabbit",
+     "area":1
+  },
+  "181":{
+     "name":"Wobot",
+     "area":1
+  },
+  "182":{
+     "name":"Wabbit Gm",
+     "area":1
+  },
+  "211":{
+     "name":"Kanniboul Archer",
+     "area":3
+  },
+  "212":{
+     "name":"Kanniboul Thierry",
+     "area":3
+  },
+  "213":{
+     "name":"Kanniboul Jav",
+     "area":3
+  },
+  "214":{
+     "name":"Kanniboul Sarbak",
+     "area":3
+  },
+  "216":{
+     "name":"Gloutovore",
+     "area":3
+  },
+  "226":{
+     "name":"Moon",
+     "area":1
+  },
+  "228":{
+     "name":"Boomba",
+     "area":1
+  },
+  "229":{
+     "name":"Nakunbra",
+     "area":1
+  },
+  "230":{
+     "name":"Le Chouque",
+     "area":1
+  },
+  "231":{
+     "name":"Canon Dorf",
+     "area":1
+  },
+  "249":{
+     "name":"Oni",
+     "area":1
+  },
+  "252":{
+     "name":"Coffre des Forgerons",
+     "area":1
+  },
+  "253":{
+     "name":"Abraknyde Sombre",
+     "area":1
+  },
+  "254":{
+     "name":"Abraknyde Vénérable",
+     "area":1
+  },
+  "255":{
+     "name":"Arakne Agressive",
+     "area":1
+  },
+  "257":{
+     "name":"Chêne Mou",
+     "area":1
+  },
+  "261":{
+     "name":"Crocodaille",
+     "area":1
+  },
+  "263":{
+     "name":"Chef Crocodaille",
+     "area":1
+  },
+  "289":{
+     "name":"Maître Corbac",
+     "area":1
+  },
+  "290":{
+     "name":"Chafer Lancier",
+     "area":1
+  },
+  "291":{
+     "name":"Chafer Archer",
+     "area":1
+  },
+  "292":{
+     "name":"Chafer d'Élite",
+     "area":1
+  },
+  "296":{
+     "name":"Milicien",
+     "area":1
+  },
+  "372":{
+     "name":"Guerrier",
+     "area":1
+  },
+  "378":{
+     "name":"Fantôme Ardent",
+     "area":1
+  },
+  "379":{
+     "name":"Fantôme Brave",
+     "area":1
+  },
+  "380":{
+     "name":"Fantôme Hicide",
+     "area":1
+  },
+  "396":{
+     "name":"Chafer Fantassin",
+     "area":1
+  },
+  "423":{
+     "name":"Kralamoure Géant",
+     "area":1
+  },
+  "442":{
+     "name":"Rat d'Égoutant",
+     "area":1
+  },
+  "446":{
+     "name":"Aermyne 'Braco' Scalptaras",
+     "area":1
+  },
+  "447":{
+     "name":"Chamane d'Égoutant",
+     "area":1
+  },
+  "449":{
+     "name":"Rat d'Hyoactif",
+     "area":1
+  },
+  "450":{
+     "name":"Gardienne des Égouts",
+     "area":1
+  },
+  "457":{
+     "name":"Shin Larve",
+     "area":1
+  },
+  "464":{
+     "name":"Brumen Tinctorias",
+     "area":1
+  },
+  "465":{
+     "name":"Rat d'Égoutant Malade",
+     "area":1
+  },
+  "466":{
+     "name":"Bandit Manchot",
+     "area":1
+  },
+  "475":{
+     "name":"Milirat d'Égoutant malade",
+     "area":1
+  },
+  "478":{
+     "name":"Bworker",
+     "area":1
+  },
+  "479":{
+     "name":"Mama Bwork",
+     "area":5
+  },
+  "481":{
+     "name":"Qil Bil",
+     "area":1
+  },
+  "488":{
+     "name":"Cybwork",
+     "area":1
+  },
+  "536":{
+     "name":"Gèmpa",
+     "area":1
+  },
+  "583":{
+     "name":"Fantôme Pandikaze",
+     "area":2
+  },
+  "584":{
+     "name":"Fantôme Maho Firefoux",
+     "area":2
+  },
+  "585":{
+     "name":"Fantôme Soryo Firefoux",
+     "area":2
+  },
+  "586":{
+     "name":"Fantôme Léopardo",
+     "area":2
+  },
+  "587":{
+     "name":"Fantôme Yokai Firefoux",
+     "area":2
+  },
+  "588":{
+     "name":"Fantôme Tanukouï San",
+     "area":2
+  },
+  "589":{
+     "name":"Fantôme Pandule",
+     "area":2
+  },
+  "590":{
+     "name":"Fantôme Tanuki Chan",
+     "area":2
+  },
+  "594":{
+     "name":"Fantôme Tanuki Chan",
+     "area":2
+  },
+  "595":{
+     "name":"Fantôme Tanuki Chan",
+     "area":2
+  },
+  "596":{
+     "name":"Fantôme Tanuki Chan",
+     "area":2
+  },
+  "597":{
+     "name":"Fantôme Pandore",
+     "area":2
+  },
+  "598":{
+     "name":"Fantôme Tanuki Chan",
+     "area":2
+  },
+  "600":{
+     "name":"Don Duss Ang",
+     "area":2
+  },
+  "601":{
+     "name":"Don Dorgan",
+     "area":1
+  },
+  "603":{
+     "name":"Cochon de Farle",
+     "area":1
+  },
+  "651":{
+     "name":"Abrakne Sombre",
+     "area":1
+  },
+  "670":{
+     "name":"Koulosse",
+     "area":1
+  },
+  "671":{
+     "name":"Bouftou des Cavernes",
+     "area":1
+  },
+  "672":{
+     "name":"Boufcoul",
+     "area":1
+  },
+  "673":{
+     "name":"Émeraude",
+     "area":1
+  },
+  "744":{
+     "name":"Koalak Sanguin",
+     "area":1
+  },
+  "746":{
+     "name":"Warko Marron",
+     "area":1
+  },
+  "747":{
+     "name":"Dok Alako",
+     "area":1
+  },
+  "748":{
+     "name":"Koalak Immature",
+     "area":1
+  },
+  "749":{
+     "name":"Guerrier Koalak",
+     "area":1
+  },
+  "751":{
+     "name":"Koalak Indigo",
+     "area":1
+  },
+  "752":{
+     "name":"Koalak Coco",
+     "area":1
+  },
+  "753":{
+     "name":"Koalak Griotte",
+     "area":1
+  },
+  "754":{
+     "name":"Koalak Reinette",
+     "area":1
+  },
+  "755":{
+     "name":"Mama Koalak",
+     "area":1
+  },
+  "756":{
+     "name":"Koalak Farouche",
+     "area":1
+  },
+  "758":{
+     "name":"Maître Koalak",
+     "area":1
+  },
+  "759":{
+     "name":"Chevaucheur Koalak",
+     "area":1
+  },
+  "760":{
+     "name":"Momie Koalak",
+     "area":1
+  },
+  "761":{
+     "name":"Fossoyeur Koalak",
+     "area":1
+  },
+  "762":{
+     "name":"Workette",
+     "area":1
+  },
+  "763":{
+     "name":"Drakoalak",
+     "area":1
+  },
+  "780":{
+     "name":"Skeunk",
+     "area":1
+  },
+  "783":{
+     "name":"Fauchalak",
+     "area":1
+  },
+  "784":{
+     "name":"Piralak",
+     "area":1
+  },
+  "785":{
+     "name":"Koalak Forestier",
+     "area":1
+  },
+  "786":{
+     "name":"Pékeualak",
+     "area":1
+  },
+  "789":{
+     "name":"Fantôme d'Aventurier Arepo",
+     "area":1
+  },
+  "790":{
+     "name":"Fantôme d'Aventurier Brave",
+     "area":1
+  },
+  "792":{
+     "name":"Bworkette",
+     "area":1
+  },
+  "796":{
+     "name":"Tofu Noir",
+     "area":1
+  },
+  "827":{
+     "name":"Minotot",
+     "area":1
+  },
+  "876":{
+     "name":"Bwork",
+     "area":1
+  },
+  "891":{
+     "name":"Mini Nuit'",
+     "area":1
+  },
+  "932":{
+     "name":"Fantôme Apero",
+     "area":1
+  },
+  "935":{
+     "name":"Rat de Marais",
+     "area":1
+  },
+  "936":{
+     "name":"Rat Batteur",
+     "area":1
+  },
+  "937":{
+     "name":"Rat Klure",
+     "area":1
+  },
+  "938":{
+     "name":"Rat Basher",
+     "area":1
+  },
+  "939":{
+     "name":"Rat Noir",
+     "area":1
+  },
+  "940":{
+     "name":"Rat Blanc",
+     "area":1
+  },
+  "941":{
+     "name":"Rat Bajoie",
+     "area":1
+  },
+  "942":{
+     "name":"Rat Croc",
+     "area":1
+  },
+  "943":{
+     "name":"Sphincter Cell",
+     "area":1
+  },
+  "1015":{
+     "name":"Wa Wabbit",
+     "area":1
+  },
+  "1018":{
+     "name":"Bob Lenald",
+     "area":1
+  },
+  "1029":{
+     "name":"Floribonde",
+     "area":1
+  },
+  "1048":{
+     "name":"Sparo",
+     "area":1
+  },
+  "1049":{
+     "name":"Barbroussa",
+     "area":1
+  },
+  "1050":{
+     "name":"Le Flib",
+     "area":1
+  },
+  "1051":{
+     "name":"Gourlo le Terrible",
+     "area":1
+  },
+  "1052":{
+     "name":"Maître Zoth",
+     "area":1
+  },
+  "1053":{
+     "name":"Gamine Zoth",
+     "area":1
+  },
+  "1054":{
+     "name":"Guerrier Zoth",
+     "area":1
+  },
+  "1055":{
+     "name":"Disciple Zoth",
+     "area":1
+  },
+  "1056":{
+     "name":"Sergent Zoth",
+     "area":1
+  },
+  "1057":{
+     "name":"Roissingue",
+     "area":1
+  },
+  "1071":{
+     "name":"Silf le Rasboul Majeur",
+     "area":1
+  },
+  "1072":{
+     "name":"Tynril Consterné",
+     "area":1
+  },
+  "1073":{
+     "name":"Brouture",
+     "area":1
+  },
+  "1074":{
+     "name":"Nerbe",
+     "area":1
+  },
+  "1075":{
+     "name":"Fécorce",
+     "area":1
+  },
+  "1077":{
+     "name":"Abrakleur Sombre",
+     "area":1
+  },
+  "1080":{
+     "name":"Tonneau Pirate",
+     "area":1
+  },
+  "1082":{
+     "name":"Boomba Shika",
+     "area":1
+  },
+  "1084":{
+     "name":"Rasboul Mineur",
+     "area":1
+  },
+  "1085":{
+     "name":"Tynril Déconcerté",
+     "area":1
+  },
+  "1086":{
+     "name":"Tynril Perfide",
+     "area":1
+  },
+  "1087":{
+     "name":"Tynril Ahuri",
+     "area":1
+  },
+  "1108":{
+     "name":"Chaferfu Lancier",
+     "area":1
+  },
+  "1153":{
+     "name":"Tromperelle",
+     "area":1
+  },
+  "1154":{
+     "name":"Champaknyde",
+     "area":1
+  },
+  "1155":{
+     "name":"Champodonte",
+     "area":1
+  },
+  "1156":{
+     "name":"Champmane",
+     "area":1
+  },
+  "1157":{
+     "name":"Champbis",
+     "area":1
+  },
+  "1158":{
+     "name":"Champ à Gnons",
+     "area":1
+  },
+  "1159":{
+     "name":"Ougah",
+     "area":1
+  },
+  "2865":{
+     "name":"Crapeur",
+     "area":1
+  },
+  "2869":{
+     "name":"Solfataré",
+     "area":1
+  },
+  "2888":{
+     "name":"Yokaï Givrefoux",
+     "area":1
+  },
+  "2889":{
+     "name":"Maho Givrefoux",
+     "area":1
+  },
+  "2890":{
+     "name":"Soryo Givrefoux",
+     "area":1
+  },
+  "2891":{
+     "name":"Yomi Givrefoux",
+     "area":1
+  },
+  "2967":{
+     "name":"Tengu Givrefoux",
+     "area":1
+  },
+  "484":{
+    "name":"Bwork Élémental de Feu",
+    "area":2
+  },
+  "485":{
+    "name":"Bwork Élémental d'Eau",
+    "area":2
+  },
+  "486":{
+    "name":"Bwork Élémental  d'Air",
+    "area":2
+  },
+  "487":{
+    "name":"Bwork Élémental de Terre",
+    "area":2
+  }
+}
