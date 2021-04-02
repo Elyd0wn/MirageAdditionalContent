@@ -135,6 +135,10 @@
     "name": "Wabbit Squelette",
     "area": 1
   },
+  "3469": {
+    "name": "Black Wabbit Squelette",
+    "area": 1
+  },
   "180": {
     "name": "Wa Wabbit",
     "area": 1
@@ -222,10 +226,6 @@
   "292": {
     "name": "Chafer d'Élite",
     "area": 3
-  },
-  "296": {
-    "name": "Milicien",
-    "area": 1
   },
   "372": {
     "name": "Guerrier",
