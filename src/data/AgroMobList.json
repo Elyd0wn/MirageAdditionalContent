@@ -607,6 +607,10 @@
     "name": "Tynril Consterné",
     "area": 1
   },
+  "1041": {
+    "name": "Bitouf Sombre",
+    "area": 1
+  },
   "1073": {
     "name": "Brouture",
     "area": 1
@@ -617,6 +621,10 @@
   },
   "1075": {
     "name": "Fécorce",
+    "area": 1
+  },
+  "1076": {
+    "name": "Chiendent",
     "area": 1
   },
   "1077": {
