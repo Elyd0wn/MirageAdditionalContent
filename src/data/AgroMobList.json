@@ -79,10 +79,6 @@
     "name": "Grand Pa Wabbit",
     "area": 1
   },
-  "102": {
-    "name": "Mulou",
-    "area": 1
-  },
   "107": {
     "name": "Dark Vlad",
     "area": 1
@@ -607,6 +603,10 @@
     "name": "Tynril Consterné",
     "area": 1
   },
+  "1041": {
+    "name": "Bitouf Sombre",
+    "area": 1
+  },
   "1073": {
     "name": "Brouture",
     "area": 1
@@ -617,6 +617,10 @@
   },
   "1075": {
     "name": "Fécorce",
+    "area": 1
+  },
+  "1076": {
+    "name": "Chiendent",
     "area": 1
   },
   "1077": {
@@ -705,6 +709,14 @@
   },
   "2967": {
     "name": "Tengu Givrefoux",
+    "area": 1
+  },
+  "44": {
+    "name": "Bwork Mage",
+    "area": 1
+  },
+  "53": {
+    "name": "Bwork Mage",
     "area": 1
   },
   "484": {
@@ -937,6 +949,22 @@
   },
   "1096": {
     "name": "Le Ouassingue Entourbé",
+    "area": 1
+  },
+  "3410": {
+    "name": "Granduk",
+    "area": 1
+  },
+  "3412": {
+    "name": "Cycloïde",
+    "area": 1
+  },
+  "3414": {
+    "name": "Sinistrofu",
+    "area": 1
+  },
+  "3415": {
+    "name": "Nocturlabe",
     "area": 1
   }
 }
