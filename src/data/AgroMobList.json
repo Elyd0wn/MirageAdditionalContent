@@ -970,5 +970,17 @@
   "2866": {
     "name": "Atomystique",
     "area": 1
+  },
+  "118": {
+    "name": "Mineur Sombre",
+    "area": 1
+  },
+  "2793": {
+    "name": "Krtek",
+    "area": 1
+  },
+  "2796": {
+    "name": "Mineur Sombre de Krtek",
+    "area": 1
   }
 }
