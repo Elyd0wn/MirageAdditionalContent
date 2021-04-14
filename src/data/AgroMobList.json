@@ -982,5 +982,69 @@
   "2796": {
     "name": "Mineur Sombre de Krtek",
     "area": 1
+  },
+  "848": {
+    "name": "Dragoss Noir",
+    "area": 1
+  },
+  "853": {
+    "name": "Dragoeuf Guerrier",
+    "area": 1
+  },
+  "855": {
+    "name": "Dragueuse",
+    "area": 1
+  },
+  "858": {
+    "name": "Dragoss Noir Éveillé",
+    "area": 1
+  },
+  "862": {
+    "name": "Dragoeuf Volant",
+    "area": 1
+  },
+  "877": {
+    "name": "Aqualikros l'Impitoyable",
+    "area": 1
+  },
+  "878": {
+    "name": "Dragoss Blanc Éveillé",
+    "area": 1
+  },
+  "879": {
+    "name": "Dragoss Doré Éveillé",
+    "area": 1
+  },
+  "884": {
+    "name": "Dragoss de Saphir",
+    "area": 1
+  },
+  "885": {
+    "name": "Dragoss Blanc",
+    "area": 1
+  },
+  "886": {
+    "name": "Dragoss Doré",
+    "area": 1
+  },
+  "902": {
+    "name": "Ignerkocropos l'Affamé",
+    "area": 1
+  },
+  "903": {
+    "name": "Terraburkal le Perfide",
+    "area": 1
+  },
+  "904": {
+    "name": "Aerotrugobur le Malveillant",
+    "area": 1
+  },
+  "905": {
+    "name": "Dragoss de Saphir Éveillé",
+    "area": 1
+  },
+  "2795": {
+    "name": "Krokille",
+    "area": 1
   }
 }
