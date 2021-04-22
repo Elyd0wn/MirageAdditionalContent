@@ -123,10 +123,6 @@
     "name": "Abraknyde Ancestral",
     "area": 1
   },
-  "178": {
-    "name": "Gobelin",
-    "area": 1
-  },
   "179": {
     "name": "Wabbit Squelette",
     "area": 1
@@ -269,10 +265,6 @@
   },
   "464": {
     "name": "Brumen Tinctorias",
-    "area": 1
-  },
-  "465": {
-    "name": "Rat d'Égoutant Malade",
     "area": 1
   },
   "475": {
@@ -485,7 +477,7 @@
   },
   "792": {
     "name": "Bworkette",
-    "area": 1
+    "area": 5
   },
   "796": {
     "name": "Tofu Noir",
