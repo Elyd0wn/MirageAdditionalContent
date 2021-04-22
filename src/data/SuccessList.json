@@ -1104,6 +1104,17 @@
       "_messageType": "ChallengeInfoMessage",
       "_name": "Minotoror (Mains propres)",
       "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotoror (Anachorète)",
+      "_points": 0
     }
   ],
   "Moon": [
@@ -1407,6 +1418,17 @@
       "_isInitialized": true,
       "_messageType": "ChallengeInfoMessage",
       "_name": "Bworkette (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworkette (challenge 2)",
       "_points": 0
     }
   ],
@@ -2215,32 +2237,6 @@
       "_points": 0
     }
   ],
-  "Bworkette (dupliqué)": [
-    {
-      "challengeId": "39",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Anachorète",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Bworkette (challenge 1) (dupliqué)",
-      "_points": 0
-    }
-  ],
-  "Minotoror (Anachorète)": [
-    {
-      "challengeId": "39",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Anachorète",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Minotoror (Anachorète)",
-      "_points": 0
-    }
-  ],
   "Sapik": [
     {
       "challengeId": "36",
@@ -2436,6 +2432,17 @@
       "_messageType": "ChallengeInfoMessage",
       "_name": "Missiz Frizz (Nomade)",
       "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Missiz Frizz  (Collant)",
+      "_points": 0
     }
   ],
   "Sylargh": [
@@ -2540,71 +2547,6 @@
       "_isInitialized": true,
       "_messageType": "ChallengeInfoMessage",
       "_name": "Harebourg (challenge 1)",
-      "_points": 0
-    }
-  ],
-  "Missiz Frizz ": [
-    {
-      "challengeId": "37",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Collant",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Missiz Frizz  (Collant)",
-      "_points": 0
-    }
-  ],
-  "Harebourg  et Nileza": [
-    {
-      "challengeId": "268",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Sbire 2",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Harebourg  et Nileza (challenge sbire 2)",
-      "_points": 0
-    }
-  ],
-  "Harebourg  et Missiz Frizz": [
-    {
-      "challengeId": "268",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Sbire 2",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Harebourg  et Missiz Frizz (challenge sbire 2)",
-      "_points": 0
-    }
-  ],
-  "Harebourg  et Sylargh": [
-    {
-      "challengeId": "268",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Sbire 2",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Harebourg  et Sylargh (challenge sbire 2)",
-      "_points": 0
-    }
-  ],
-  "Harebourg  et Klime": [
-    {
-      "challengeId": "268",
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "Sbire 2",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Harebourg  et Klime (challenge sbire 2)",
       "_points": 0
     }
   ],
@@ -2965,7 +2907,18 @@
       "_points": 0
     }
   ],
-  "Colonimb": [
+  "Colonimb Selim Quartz": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Colonimb Selim Quartz (duo challenge)",
+      "_points": 0
+    },
     {
       "challengeId": "6",
       "dropBonus": 0,
@@ -2986,19 +2939,6 @@
       "_isInitialized": true,
       "_messageType": "ChallengeInfoMessage",
       "_name": "Colonimb (challenge 2)",
-      "_points": 0
-    }
-  ],
-  "Colonimb Selim Quartz": [
-    {
-      "challengeId": 50,
-      "dropBonus": 0,
-      "targetId": -1,
-      "xpBonus": 0,
-      "_description": "duo et 20 tours max",
-      "_isInitialized": true,
-      "_messageType": "ChallengeInfoMessage",
-      "_name": "Colonimb Selim Quartz (duo challenge)",
       "_points": 0
     }
   ],
@@ -3024,9 +2964,7 @@
       "_messageType": "ChallengeInfoMessage",
       "_name": "Roi Skaille (challenge duo)",
       "_points": 0
-    }
-  ],
-  "Roi Skaille  (challenge 2 - Dernier)": [
+    },
     {
       "challengeId": "4",
       "dropBonus": 0,
@@ -3201,9 +3139,7 @@
       "_messageType": "ChallengeInfoMessage",
       "_name": "Founoroshi (En dernier)",
       "_points": 0
-    }
-  ],
-  "Founoroshi (Anachorète)": [
+    },
     {
       "challengeId": "39",
       "dropBonus": 0,
