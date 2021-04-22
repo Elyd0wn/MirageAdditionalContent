@@ -1,0 +1,3254 @@
+{
+  "Bouftou Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bouftou Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bouftou Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bouftou Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Royalmouth": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Royalmouth (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Royalmouth (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Royalmouth (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Mansot Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mansot Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mansot Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mansot Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Ben le Ripate": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ben le Ripate (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "21",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Circulez",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ben le Ripate (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ben le Ripate (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Obsidiantre": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Obsidiantre (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Obsidiantre (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Obsidiantre (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Tengu Givrefoux": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 14 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tengu Givrefoux (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tengu Givrefoux (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tengu Givrefoux (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Fuji Givrefoux Nourricière": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 20 tours max.",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Fuji Givrefoux Nourricière (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Fuji Givrefoux Nourricière (dernier)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Fuji Givrefoux Nourricière (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Korriandre": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 14 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Korriandre (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "11",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mystique",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Korriandre (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Korriandre (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Kolosso": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 18 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kolosso (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier (Blérom)",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kolosso (Dernier)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier (Xa)",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kolosso (Premier)",
+      "_points": 0
+    }
+  ],
+  "Glourséleste": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 16 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Glourséleste (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Glourséleste (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Glourséleste (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "N": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 27 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "N (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "N (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "N (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Corailleur Magistral": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Corailleur Magistral (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Corailleur Magistral (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Corailleur Magistral (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Gourlo le terrible": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gourlo le terrible (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gourlo le terrible (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "5",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Econome",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gourlo le terrible (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Silf le Rasboul Majeur": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Silf le Rasboul Majeur (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Silf le Rasboul Majeur (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "22",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Le temps qui court",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Silf le Rasboul Majeur (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Tynril ahuri": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tynril ahuri (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "17",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Intouchable",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tynril ahuri (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tynril ahuri (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Kimbo": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 7 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kimbo (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kimbo (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kimbo (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Kralamour géant": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kralamour géant (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kralamour géant (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kralamour géant (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Bulbig Brozeur": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bulbig Brozeur (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bulbig Brozeur (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bulbig Brozeur (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Tanukouï San": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "31",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Focus",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (Nomade)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tanukouï San (Blitzkrieg)",
+      "_points": 0
+    }
+  ],
+  "Maître Pandore": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Pandore (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Pandore (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Pandore (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Péki Péki": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 10 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Péki Péki (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Péki Péki (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Péki Péki (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Ougah": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 14 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ougah (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ougah (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Ougah (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Bworker": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 14 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworker (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworker (Hardi)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworker (Blitzkrieg)",
+      "_points": 0
+    }
+  ],
+  "Sphincter Cell": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sphincter Cell (duo challenge)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sphincter Cell (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sphincter Cell (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Chêne Mou": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chêne Mou (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Circulez + perdu de vue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chêne Mou (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chêne Mou (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Minotot": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotot (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "21",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Circulez",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotot (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotot (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Blop multicolore royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop multicolore royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop multicolore royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop multicolore royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Skeunk": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 25 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Skeunk (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Skeunk (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Skeunk (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Crocabulia": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Crocabulia (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Crocabulia (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Crocabulia (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Tofu Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tofu Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tofu Royal (En dernier)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tofu Royal (Statue)",
+      "_points": 0
+    }
+  ],
+  "Minotoror": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotoror (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotoror (Mains propres)",
+      "_points": 0
+    }
+  ],
+  "Moon": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Moon (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Moon (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Moon (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Dragon Cochon": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Dragon Cochon (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Dragon Cochon (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Dragon Cochon (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Koulosse": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Koulosse (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Koulosse (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Koulosse (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Meulou": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Meulou (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Meulou (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Meulou (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Rat Noir": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Noir (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Noir (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Noir (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Rat Blanc": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Blanc (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Blanc (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Rat Blanc (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Maître Corbac": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Corbac (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Corbac (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Maître Corbac (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Coffre des Forgerons": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Coffre des Forgerons (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Coffre des Forgerons (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Coffre des Forgerons (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Bworkette": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworkette (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworkette (challenge 1)",
+      "_points": 0
+    }
+  ],
+  "Kwakwa": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kwakwa (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kwakwa (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kwakwa (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Blop Coco Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Coco Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Coco Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Coco Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Blop Griotte Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Griotte Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Griotte Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Griotte Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Blop Indigo Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Indigo Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Indigo Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Indigo Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Blop Reinette Royal": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Reinette Royal (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Reinette Royal (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Blop Reinette Royal (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Kanniboul Ebil": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanniboul Ebil (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanniboul Ebil (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanniboul Ebil (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Craqueleur Légendaire": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Craqueleur Légendaire (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Craqueleur Légendaire (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Craqueleur Légendaire (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Nelween": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nelween (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nelween (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nelween (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Daïgoro": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Daïgoro (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Daïgoro (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Daïgoro (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Abraknyde Ancestral": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Abraknyde Ancestral (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Abraknyde Ancestral (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Abraknyde Ancestral (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Mulou Livide": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mulou Livide (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mulou Livide (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mulou Livide (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Tournesol Affamé": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tournesol Affamé (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tournesol Affamé (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Tournesol Affamé (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Mob l'Eponge": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mob l'Eponge (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mob l'Eponge (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Mob l'Eponge (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Scarabosse Doré": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Scarabosse Doré (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Scarabosse Doré (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Scarabosse Doré (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Batofu": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Batofu (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Batofu (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Batofu (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Boostache": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Boostache (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Boostache (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Boostache (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Chafer Ronin": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chafer Ronin (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chafer Ronin (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Chafer Ronin (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Shin Larve": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shin Larve (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shin Larve (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shin Larve (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Wa Wabbit": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wabbit (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wabbit (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wabbit (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Gelée Royale Menthe": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Menthe (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Menthe (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Menthe (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Gelée Royale Fraise": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Fraise (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Fraise (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Fraise (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Gelée Royale Citron": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Citron (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Citron (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Citron (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Gelée Royale Bleue": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Bleue (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "45",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duel",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Bleue (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gelée Royale Bleue (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Bworkette (dupliqué)": [
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Bworkette (challenge 1) (dupliqué)",
+      "_points": 0
+    }
+  ],
+  "Minotoror (Anachorète)": [
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Minotoror (Anachorète)",
+      "_points": 0
+    }
+  ],
+  "Sapik": [
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sapik (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sapik (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sapik (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sapik (challenge chrono)",
+      "_points": 0
+    }
+  ],
+  "Papa Nowel": [
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Papa Nowel (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Papa Nowel (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Papa Nowel (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Papa Nowel (challenge chrono)",
+      "_points": 0
+    }
+  ],
+  "Père Fwetar": [
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Père Fwetar (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Père Fwetar (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Père Fwetar (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Père Fwetar (challenge chrono)",
+      "_points": 0
+    }
+  ],
+  "Nileza": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nileza (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nileza (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nileza (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Missiz Frizz": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Missiz Frizz (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Missiz Frizz (Nomade)",
+      "_points": 0
+    }
+  ],
+  "Sylargh": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sylargh (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sylargh (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "9",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Barbare",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Sylargh (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Klime": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Klime (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "40",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Pusillanime",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Klime (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Klime (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Harebourg": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 40 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg (challenge 1)",
+      "_points": 0
+    }
+  ],
+  "Missiz Frizz ": [
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Missiz Frizz  (Collant)",
+      "_points": 0
+    }
+  ],
+  "Harebourg  et Nileza": [
+    {
+      "challengeId": "268",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Sbire 2",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg  et Nileza (challenge sbire 2)",
+      "_points": 0
+    }
+  ],
+  "Harebourg  et Missiz Frizz": [
+    {
+      "challengeId": "268",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Sbire 2",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg  et Missiz Frizz (challenge sbire 2)",
+      "_points": 0
+    }
+  ],
+  "Harebourg  et Sylargh": [
+    {
+      "challengeId": "268",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Sbire 2",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg  et Sylargh (challenge sbire 2)",
+      "_points": 0
+    }
+  ],
+  "Harebourg  et Klime": [
+    {
+      "challengeId": "268",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Sbire 2",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Harebourg  et Klime (challenge sbire 2)",
+      "_points": 0
+    }
+  ],
+  "Grozilla et Grasmera Somnambules": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Somnambules (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Somnambules (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Somnambules (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Somnambules (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Grozilla et Grasmera Épuisés": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Épuisés (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Épuisés (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "37",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Collant",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Épuisés (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Épuisés (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Grozilla et Grasmera Fatigués": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Fatigués (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": "8",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Nomade",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Fatigués (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Fatigués (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera Fatigués (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Grozilla et Grasmera": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Grozilla et Grasmera (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Wa Wobot": [
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains Propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wobot (Challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "38",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Blitzkrieg",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wobot (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Wa Wobot (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Halouine": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "8 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Halouine (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Halouine (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Halouine (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Halouine (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Os Andeuk'Hou": [
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Os Andeuk'Hou (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Os Andeuk'Hou (challenge 2)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Os Andeuk'Hou",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "9 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Os Andeuk'Hou (challenge chrono)",
+      "_points": 0
+    }
+  ],
+  "Délégoule du Personnel": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Délégoule du Personnel (challenge chrono)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 39 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Délégoule du Personnel (duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Aucun allié ne doit mourir.",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Délégoule du Personnel (Survivant)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Ne jamais finir son tour sur une cellule adjacente à celle d'un adversaire.",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Délégoule du Personnel (Pusillanime)",
+      "_points": 0
+    }
+  ],
+  "Colonimb": [
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Colonimb (challenge 1)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Colonimb (challenge 2)",
+      "_points": 0
+    }
+  ],
+  "Colonimb Selim Quartz": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "duo et 20 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Colonimb Selim Quartz (duo challenge)",
+      "_points": 0
+    }
+  ],
+  "Roi Skaille": [
+    {
+      "challengeId": "2",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Statue",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Roi Skaille (challenge 1 Statue)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Roi Skaille (challenge duo)",
+      "_points": 0
+    }
+  ],
+  "Roi Skaille  (challenge 2 - Dernier)": [
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Roi Skaille  (challenge 2 - Dernier)",
+      "_points": 0
+    }
+  ],
+  "Zombrute": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Zombrute (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Ne jamais finir son tour sur une cellule adjacente à celle d'un adversaire.",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Zombrute (Pusillanime)",
+      "_points": 0
+    },
+    {
+      "challengeId": "6",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Versatile",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Zombrute (versatile)",
+      "_points": 0
+    }
+  ],
+  "Kanigroula": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanigroula (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "19",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Mains propres",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanigroula (mains propres)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Kanigroula (premier)",
+      "_points": 0
+    }
+  ],
+  "Gardien Crakillian": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gardien Crakillian (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gardien Crakillian (dernier)",
+      "_points": 0
+    },
+    {
+      "challengeId": "1",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Zombie",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Gardien Crakillian (Zombie)",
+      "_points": 0
+    }
+  ],
+  "Nagate": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nagate (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "36",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Hardi",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nagate (Hardi)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Nagate (dernier)",
+      "_points": 0
+    }
+  ],
+  "Founoroshi": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Founoroshi (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "4",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En dernier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Founoroshi (En dernier)",
+      "_points": 0
+    }
+  ],
+  "Founoroshi (Anachorète)": [
+    {
+      "challengeId": "39",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Anachorète",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Founoroshi (Anachorète)",
+      "_points": 0
+    }
+  ],
+  "Shihan": [
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Duo-Challenge et 19 tours max",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shihan (challenge duo)",
+      "_points": 0
+    },
+    {
+      "challengeId": "3",
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "En premier",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shihan (Premier)",
+      "_points": 0
+    },
+    {
+      "challengeId": 50,
+      "dropBonus": 0,
+      "targetId": -1,
+      "xpBonus": 0,
+      "_description": "Ne jamais finir son tour sur une cellule adjacente à celle d'un adversaire.",
+      "_isInitialized": true,
+      "_messageType": "ChallengeInfoMessage",
+      "_name": "Shihan (Pusillanime)",
+      "_points": 0
+    }
+  ]
+}
