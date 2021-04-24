@@ -1010,5 +1010,21 @@
   "2795": {
     "name": "Krokille",
     "area": 1
+  },
+  "892": {
+    "name": "Terrakoubiak le Guerrier",
+    "area": 1
+  },
+  "893": {
+    "name": "Ignelicrobur le Guerrier",
+    "area": 1
+  },
+  "894": {
+    "name": "Aerohouctor le Guerrier",
+    "area": 1
+  },
+  "895": {
+    "name": "Aquabralak le Guerrier",
+    "area": 1
   }
 }
