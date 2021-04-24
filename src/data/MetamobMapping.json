@@ -83,6 +83,12 @@
      "metamobId":"84",
      "name":"Bwork Archer"
   },
+  "75":{
+     "name":"DragOeuf Doré Immature"
+  },
+  "76":{
+     "name":"DragOeuf Blanc"
+  },
   "78":{
      "metamobId":"26",
      "name":"Rose Démoniaque"
@@ -91,6 +97,9 @@
      "metamobId":"23",
      "name":"Pissenlit Diabolique"
   },
+  "82":{
+     "name":"DragOeuf Noir Immature"
+  },
   "85":{
      "metamobId":"305",
      "name":"Gelée Royale Menthe"
@@ -98,6 +107,30 @@
   "86":{
      "metamobId":"325",
      "name":"Gelée Royale Fraise"
+  },
+  "87":{
+     "name":"DragOeuf Doré"
+  },
+  "88":{
+     "name":"DragOeuf de Saphir"
+  },
+  "89":{
+     "name":"DragOeuf Noir"
+  },
+  "90":{
+     "name":"DragOeuf Blanc Immature"
+  },
+  "91":{
+     "name":"DragOeuf Noir Éveillé"
+  },
+  "93":{
+     "name":"DragOeuf Blanc Éveillé"
+  },
+  "94":{
+     "name":"DragOeuf Doré Éveillé"
+  },
+  "95":{
+     "name":"DragOeuf de Saphir Éveillé"
   },
   "96":{
      "metamobId":"36",
@@ -134,6 +167,9 @@
   "106":{
      "metamobId":"96",
      "name":"Craqueleur"
+  },
+  "107":{
+     "name":"Dark Vlad"
   },
   "108":{
      "metamobId":"104",
@@ -215,6 +251,15 @@
      "metamobId":"39",
      "name":"Bandit du clan des Roublards"
   },
+  "158":{
+     "name":"Coquille Explosive"
+  },
+  "159":{
+     "name":"Milimilou"
+  },
+  "170":{
+     "name":"DragOeuf de Saphir Immature"
+  },
   "171":{
      "metamobId":"92",
      "name":"Dragodinde Amande Sauvage"
@@ -255,9 +300,18 @@
      "metamobId":"46",
      "name":"Citwouille"
   },
+  "208":{
+     "name":"Tikokoko"
+  },
   "209":{
      "metamobId":"142",
      "name":"Kokoko"
+  },
+  "211":{
+     "name":"Kanniboul Archer"
+  },
+  "212":{
+     "name":"Kanniboul Thierry"
   },
   "213":{
      "metamobId":"165",
@@ -311,9 +365,15 @@
      "metamobId":"189",
      "name":"Nakunbra"
   },
+  "231":{
+     "name":"Canon Dorf"
+  },
   "232":{
      "metamobId":"330",
      "name":"Meulou"
+  },
+  "233":{
+     "name":"Trooll"
   },
   "236":{
      "metamobId":"12",
@@ -354,6 +414,9 @@
   "254":{
      "metamobId":"157",
      "name":"Abraknyde Vénérable"
+  },
+  "255":{
+     "name":"Arakne Agressive"
   },
   "256":{
      "metamobId":"112",
@@ -451,6 +514,9 @@
      "metamobId":"32",
      "name":"Kolérat"
   },
+  "301":{
+     "name":"Ouginak"
+  },
   "343":{
      "metamobId":"131",
      "name":"Cavalier Porkass"
@@ -462,6 +528,12 @@
   "371":{
      "metamobId":"161",
      "name":"Maître Bolet"
+  },
+  "378":{
+     "name":"Fantôme Ardent"
+  },
+  "379":{
+     "name":"Fantôme Brave"
   },
   "380":{
      "metamobId":"204",
@@ -527,6 +599,9 @@
      "metamobId":"169",
      "name":"Rat d'Égoutant"
   },
+  "447":{
+     "name":"Chamane d'Égoutant"
+  },
   "449":{
      "metamobId":"199",
      "name":"Rat d'Hyoactif"
@@ -538,6 +613,9 @@
   "457":{
      "metamobId":"306",
      "name":"Shin Larve"
+  },
+  "465":{
+     "name":"Rat d'Égoutant Malade"
   },
   "466":{
      "metamobId":"25",
@@ -554,6 +632,9 @@
   "474":{
      "metamobId":"7",
      "name":"Arakne Malade"
+  },
+  "475":{
+     "name":"Milirat d'Égoutant malade"
   },
   "478":{
      "metamobId":"343",
@@ -594,6 +675,30 @@
   "498":{
      "metamobId":"91",
      "name":"Gargrouille"
+  },
+  "583":{
+     "name":"Fantôme Pandikaze"
+  },
+  "584":{
+     "name":"Fantôme Maho Firefoux"
+  },
+  "585":{
+     "name":"Fantôme Soryo Firefoux"
+  },
+  "586":{
+     "name":"Fantôme Léopardo"
+  },
+  "587":{
+     "name":"Fantôme Yokai Firefoux"
+  },
+  "588":{
+     "name":"Fantôme Tanukouï San"
+  },
+  "589":{
+     "name":"Fantôme Pandule"
+  },
+  "597":{
+     "name":"Fantôme Pandore"
   },
   "600":{
      "metamobId":"190",
@@ -779,6 +884,12 @@
      "metamobId":"99",
      "name":"Kraméléhon"
   },
+  "848":{
+     "name":"Dragoss Noir"
+  },
+  "853":{
+     "name":"Dragoeuf Guerrier"
+  },
   "854":{
      "metamobId":"347",
      "name":"Crocabulia"
@@ -787,9 +898,57 @@
      "metamobId":"224",
      "name":"Dragueuse"
   },
+  "858":{
+     "name":"Dragoss Noir Éveillé"
+  },
+  "862":{
+     "name":"Dragoeuf Volant"
+  },
   "876":{
      "metamobId":"97",
      "name":"Bwork"
+  },
+  "877":{
+     "name":"Aqualikros l'Impitoyable"
+  },
+  "878":{
+     "name":"Dragoss Blanc Éveillé"
+  },
+  "879":{
+     "name":"Dragoss Doré Éveillé"
+  },
+  "884":{
+     "name":"Dragoss de Saphir"
+  },
+  "885":{
+     "name":"Dragoss Blanc"
+  },
+  "886":{
+     "name":"Dragoss Doré"
+  },
+  "892":{
+     "name":"Terrakoubiak le Guerrier"
+  },
+  "893":{
+     "name":"Ignelicrobur le Guerrier"
+  },
+  "894":{
+     "name":"Aerohouctor le Guerrier"
+  },
+  "895":{
+     "name":"Aquabralak le Guerrier"
+  },
+  "902":{
+     "name":"Ignerkocropos l'Affamé"
+  },
+  "903":{
+     "name":"Terraburkal le Perfide"
+  },
+  "904":{
+     "name":"Aerotrugobur le Malveillant"
+  },
+  "905":{
+     "name":"Dragoss de Saphir Éveillé"
   },
   "920":{
      "metamobId":"68",
@@ -1127,6 +1286,9 @@
      "metamobId":"466",
      "name":"Scorpitène l'Enflammé"
   },
+  "2286":{
+     "name":"Bourdilleu le Social"
+  },
   "2287":{
      "metamobId":"528",
      "name":"Serpistule le Purulent"
@@ -1134,6 +1296,9 @@
   "2289":{
      "metamobId":"488",
      "name":"Susbewl l'Hypocrite"
+  },
+  "2292":{
+     "name":"Grokosto le Bosco"
   },
   "2293":{
      "metamobId":"384",
@@ -1307,6 +1472,9 @@
      "metamobId":"415",
      "name":"Pichdourse le Puissant"
   },
+  "2339":{
+     "name":"Picht le Brioché"
+  },
   "2340":{
      "metamobId":"416",
      "name":"Pichtoire l'Erudit"
@@ -1399,6 +1567,18 @@
      "metamobId":"598",
      "name":"Bouliver le Géant"
   },
+  "2367":{
+     "name":"Dragstore le Généraliste"
+  },
+  "2368":{
+     "name":"Dragtula l'Ancien"
+  },
+  "2369":{
+     "name":"Dragstik le Frustre"
+  },
+  "2370":{
+     "name":"Fansissla l'Âne"
+  },
   "2371":{
      "metamobId":"379",
      "name":"Geloliaine l'Aérien"
@@ -1410,6 +1590,9 @@
   "2373":{
      "metamobId":"627",
      "name":"Champoul l'Illuminé"
+  },
+  "2374":{
+     "name":"Fanhopruno le Gourmet"
   },
   "2376":{
      "metamobId":"440",
@@ -1543,6 +1726,9 @@
      "metamobId":"506",
      "name":"Chafrit le Barbare"
   },
+  "2423":{
+     "name":"Chamitant le Dillettante"
+  },
   "2424":{
      "metamobId":"432",
      "name":"Champayt l'Odorant"
@@ -1607,6 +1793,18 @@
      "metamobId":"493",
      "name":"Doktopuss le Maléfique"
   },
+  "2445":{
+     "name":"Dragoeth le Penseur"
+  },
+  "2446":{
+     "name":"Dragma le Bouillant"
+  },
+  "2447":{
+     "name":"Dragtonien le Malvoyant"
+  },
+  "2448":{
+     "name":"Dragoo le Cramoisi"
+  },
   "2449":{
      "metamobId":"538",
      "name":"Dragnostik le Sceptique"
@@ -1615,17 +1813,29 @@
      "metamobId":"537",
      "name":"Dragkouine la Déguisée"
   },
+  "2451":{
+     "name":"Dragsta le Détendu"
+  },
   "2452":{
      "metamobId":"588",
      "name":"Dragobert le Monarque"
+  },
+  "2453":{
+     "name":"Dragtopaile l'Excavateur"
   },
   "2454":{
      "metamobId":"604",
      "name":"Dragminster le Magicien"
   },
+  "2455":{
+     "name":"Dragalgan l'Effervescent"
+  },
   "2456":{
      "metamobId":"605",
      "name":"Dragtarus le Bellâtre"
+  },
+  "2457":{
+     "name":"Dragybuss le Sucré"
   },
   "2458":{
      "metamobId":"606",
@@ -1663,9 +1873,42 @@
      "metamobId":"547",
      "name":"Fandanleuil le Précis"
   },
+  "2468":{
+     "name":"Fantrask le Rêveur"
+  },
+  "2469":{
+     "name":"Fanstatik l'Etonnant"
+  },
+  "2470":{
+     "name":"Fansiss la Brêle"
+  },
+  "2471":{
+     "name":"Fandouich l'Hautain"
+  },
+  "2472":{
+     "name":"Fanlmyl l'Acuité"
+  },
+  "2473":{
+     "name":"Fanhnatur le Simple"
+  },
+  "2474":{
+     "name":"Fanfancisco le Cosmopolite"
+  },
+  "2475":{
+     "name":"Fanjo le Pilote"
+  },
+  "2476":{
+     "name":"Fanjipann le Sucré"
+  },
+  "2477":{
+     "name":"Fanburn le Viril"
+  },
   "2482":{
      "metamobId":"578",
      "name":"Fossamoel le Juteux"
+  },
+  "2483":{
+     "name":"Fantassein le Soldat"
   },
   "2484":{
      "metamobId":"421",
@@ -1898,6 +2141,9 @@
   "2563":{
      "metamobId":"548",
      "name":"Fantoch le Pantin"
+  },
+  "2564":{
+     "name":"Fanlagoel le Comique"
   },
   "2565":{
      "metamobId":"593",
