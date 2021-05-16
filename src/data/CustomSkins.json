@@ -3,5 +3,35 @@
     "look": {"_type":"EntityLook","bonesId":639,"skins":[2159],"indexedColors":[30314066,38620493,59179008,75956224,88952141],"scales":[140],"subentities":[]},
     "type": 2,
     "name": "Centor des bois"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":1003,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Modérateur"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":73,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Gamin"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":58,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
+    "type": 0,
+    "name": "Gardien"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":338,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Gobelin"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":445,"skins":[],"indexedColors":[],"scales":[120],"subentities":[]},
+    "type": 0,
+    "name": "Grouillot"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":68,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
+    "type": 0,
+    "name": "Bushido Peule"
   }
 ]
