@@ -1103,7 +1103,7 @@
     "name": "bworky",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -1112,28 +1112,28 @@
         "is_type": false,
         "id": 391,
         "increment": 10,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 392,
         "increment": 10,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 393,
         "increment": 10,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 394,
         "increment": 10,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
@@ -5864,7 +5864,7 @@
       "id": 0,
       "min": 0,
       "max": 2000,
-      "boosted": 2080
+      "boosted": 2100
     }],
     "foods": [{
         "is_type": false,
@@ -7188,7 +7188,7 @@
     "name": "tirubim",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -7197,238 +7197,238 @@
         "is_type": false,
         "id": 598,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 600,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 602,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 603,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 607,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1750,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1754,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1757,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1759,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1762,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1779,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1782,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1784,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1786,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1788,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1790,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1792,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1794,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1796,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1799,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1801,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1803,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1805,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1807,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1844,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1846,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1847,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1849,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 1853,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 2187,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 11106,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 11500,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 13585,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "is_type": false,
         "id": 16045,
         "increment": 1,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
@@ -9582,8 +9582,8 @@
       "name": "% Résistance Terre",
       "id": 0,
       "min": 0,
-      "max": 18,
-      "boosted": 25
+      "max": 20,
+      "boosted": 26
     }],
     "foods": [{
         "quantity": 30,
@@ -10290,7 +10290,7 @@
       "id": 0,
       "min": 0,
       "max": 40,
-      "boosted": 45
+      "boosted": 44
     }],
     "foods": [{
         "quantity": 10,
@@ -10580,7 +10580,8 @@
       }
     ],
     "hormone_drop_monsters": [
-      "382"
+      "382",
+      "800"
     ]
   },
   "13661": {
@@ -10590,7 +10591,7 @@
       "id": 0,
       "min": 0,
       "max": 40,
-      "boosted": 45
+      "boosted": 44
     }],
     "foods": [{
         "quantity": 40,
@@ -10884,6 +10885,9 @@
       }
     ],
     "hormone_drop_monsters": [
+      "1087",
+      "1072",
+      "1085",
       "1086"
     ]
   },
@@ -11273,7 +11277,7 @@
     "name": "bulbouture",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -11281,37 +11285,37 @@
     "foods": [{
         "quantity": 10,
         "id": 3936,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 3938,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 3940,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 3942,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 3946,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 1,
         "id": 3944,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
@@ -12435,7 +12439,7 @@
     "name": "boune brâkmarien",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -12443,31 +12447,31 @@
     "foods": [{
         "quantity": 50,
         "id": 159,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 102,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 233,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 10,
         "id": 3822,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 1,
         "id": 232,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
@@ -12481,8 +12485,8 @@
       "name": "% Résistance Eau",
       "id": 0,
       "min": 0,
-      "max": 18,
-      "boosted": 25
+      "max": 20,
+      "boosted": 26
     }],
     "foods": [{
         "quantity": 20,
@@ -12525,8 +12529,8 @@
       "name": "% Résistance Air",
       "id": 0,
       "min": 0,
-      "max": 18,
-      "boosted": 25
+      "max": 20,
+      "boosted": 26
     }],
     "foods": [{
         "quantity": 20,
@@ -12575,8 +12579,8 @@
       "name": "% Résistance Feu",
       "id": 0,
       "min": 0,
-      "max": 18,
-      "boosted": 25
+      "max": 20,
+      "boosted": 26
     }],
     "foods": [{
         "quantity": 15,
@@ -12906,7 +12910,8 @@
       }
     ],
     "hormone_drop_monsters": [
-      "939"
+      "939",
+      "940"
     ]
   },
   "14927": {
@@ -13109,7 +13114,7 @@
     "name": "chauffe-souris",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -13117,41 +13122,44 @@
     "foods": [{
         "quantity": 50,
         "id": 495,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 50,
         "id": 496,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 40,
         "id": 1096,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 20,
         "id": 1059,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 15,
         "id": 1058,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 1,
         "id": 1057,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
-    "hormone_drop_monsters": []
+    "hormone_drop_monsters": [
+      "1057",
+      "2786"
+    ]
   },
   "11012": {
     "name": "chienchien tigré",
@@ -13349,7 +13357,7 @@
     "name": "fosfo",
     "effects": [{
       "name": "Pods",
-      "id": 0,
+      "id": 158,
       "min": 0,
       "max": 1000,
       "boosted": 1100
@@ -13357,103 +13365,103 @@
     "foods": [{
         "quantity": 25,
         "id": 64,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 25,
         "id": 65,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 25,
         "id": 68,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 25,
         "id": 72,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 25,
         "id": 96,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 20,
         "id": 97,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 20,
         "id": 99,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 20,
         "id": 179,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 20,
         "id": 3469,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 181,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 182,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 3461,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 3462,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 3463,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 5,
         "id": 3474,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 1,
         "id": 180,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       },
       {
         "quantity": 1,
         "id": 3460,
-        "effectId": 0,
+        "effectId": 158,
         "effectName": "Pods"
       }
     ],
@@ -13680,7 +13688,7 @@
       "id": 0,
       "min": 0,
       "max": 60,
-      "boosted": 65
+      "boosted": 66
     }],
     "foods": [{
         "quantity": 10,
@@ -14092,6 +14100,9 @@
       }
     ],
     "hormone_drop_monsters": [
+      "1087",
+      "1072",
+      "1085",
       "1086"
     ]
   },
@@ -14451,7 +14462,10 @@
         "effectName": "Puissance"
       }
     ],
-    "hormone_drop_monsters": []
+    "hormone_drop_monsters": [
+      "3294",
+      "3295"
+    ]
   },
   "15840": {
     "name": "mandrog",
@@ -16183,7 +16197,14 @@
       }
     ],
     "hormone_drop_monsters": [
-      "1071"
+      "1027",
+      "1051",
+      "1071",
+      "1087",
+      "1072",
+      "1085",
+      "1086",
+      "1045"
     ]
   },
   "10106": {
@@ -16262,7 +16283,10 @@
         "effectName": "Vitalité"
       }
     ],
-    "hormone_drop_monsters": []
+    "hormone_drop_monsters": [
+      "2786",
+      "3238"
+    ]
   },
   "15416": {
     "name": "glub",
@@ -16457,7 +16481,7 @@
       "id": 0,
       "min": 0,
       "max": 80,
-      "boosted": 88
+      "boosted": 90
     }],
     "foods": [{
         "quantity": 80,
@@ -16637,7 +16661,8 @@
       }
     ],
     "hormone_drop_monsters": [
-      "939"
+      "939",
+      "940"
     ]
   },
   "12133": {
