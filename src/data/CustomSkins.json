@@ -53,7 +53,7 @@
     "name": "Moune - Dev Mirage"
   },
   {
-    "look": {"_type":"EntityLook","bonesId":5419,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
+    "look": {"_type":"EntityLook","bonesId":5144,"skins":[],"indexedColors":[],"scales":[250],"subentities":[]},
     "type": 4,
     "target": "WyJOREV3T0RnM09UY3VOVE16TXpNek16TT0iXQ==",
     "ornament":80,
