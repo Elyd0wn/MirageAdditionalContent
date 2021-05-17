@@ -35,7 +35,7 @@
     "name": "Bushido Peule"
   },
   {
-    "look": {"_type":"EntityLook","bonesId":1053,"skins":[],"indexedColors":[],"scales":[140],"subentities":[]},
+    "look": {"_type":"EntityLook","bonesId":1053,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
     "type": 0,
     "name": "Jiva"
   }
