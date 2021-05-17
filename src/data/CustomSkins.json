@@ -48,12 +48,16 @@
     "look": {"_type":"EntityLook","bonesId":5311,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
     "type": 4,
     "target": "WyJMVFF6TGpNek16TXpNek16TXpNek16TXpOZz09Il0=",
-    "name": "Moune"
+    "ornament":80,
+    "title":61,
+    "name": "Moune - Dev Mirage"
   },
   {
     "look": {"_type":"EntityLook","bonesId":5419,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
     "type": 4,
     "target": "WyJOREV3T0RnM09UY3VOVE16TXpNek16TT0iXQ==",
-    "name": "Elyd0wn"
+    "ornament":80,
+    "title":61,
+    "name": "Elyd0wn - Dev Mirage"
   }
 ]
