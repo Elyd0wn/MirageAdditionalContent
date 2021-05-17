@@ -35,8 +35,25 @@
     "name": "Bushido Peule"
   },
   {
-    "look": {"_type":"EntityLook","bonesId":1053,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
+    "look": {"_type":"EntityLook","bonesId":5409,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
     "type": 0,
-    "name": "Jiva"
+    "name": "Hanshi"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5419,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
+    "type": 0,
+    "name": "Nagate"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5311,"skins":[],"indexedColors":[],"scales":[90],"subentities":[]},
+    "type": 4,
+    "target": "WyJMVFF6TGpNek16TXpNek16TXpNek16TXpOZz09Il0=",
+    "name": "Moune"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5419,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
+    "type": 4,
+    "target": "WyJOREV3T0RnM09UY3VOVE16TXpNek16TT0iXQ==",
+    "name": "Elyd0wn"
   }
 ]
