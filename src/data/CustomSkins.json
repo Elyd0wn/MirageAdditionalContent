@@ -118,5 +118,13 @@
     "ornament":80,
     "title":61,
     "name": "Flashneo - Dev Mirage"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5059,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
+    "type": 4,
+    "target": "WyJNVEl6TlRjeE1EWTBMakEyTmpZMk5qWTIiXQ==",
+    "ornament":80,
+    "title":61,
+    "name": "Tird - Dev Mirage"
   }
 ]
