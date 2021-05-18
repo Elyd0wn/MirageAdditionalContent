@@ -45,6 +45,41 @@
     "name": "Nagate"
   },
   {
+    "look": {"_type":"EntityLook","bonesId":5323,"skins":[],"indexedColors":[],"scales":[115],"subentities":[]},
+    "type": 0,
+    "name": "Otomaï du Passé"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":629,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Sirène bonne"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":1724,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Goultard"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":438,"skins":[],"indexedColors":[],"scales":[130],"subentities":[]},
+    "type": 0,
+    "name": "Epée Dansante"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5317,"skins":[],"indexedColors":[],"scales":[],"subentities":[]},
+    "type": 0,
+    "name": "Le Chouque Jeune"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":2069,"skins":[],"indexedColors":[],"scales":[150],"subentities":[]},
+    "type": 0,
+    "name": "Comte Harebourg"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":5276,"skins":[],"indexedColors":[],"scales":[140],"subentities":[]},
+    "type": 0,
+    "name": "Chacha Blanc"
+  },
+  {
     "look": {"_type":"EntityLook","bonesId":5442,"skins":[],"indexedColors":[],"scales":[250],"subentities":[]},
     "type": 4,
     "target": "WyJNVEl3TXprME56RTVMalEyTmpZMk5qWTMiLCJPRGcwTXpJMU56RXVPVE16TXpNek16UT0iLCJPVGt5TXpBM09ESXVOek16TXpNek16TT0iLCJNVEl4TURVM01EVTJMalEyTmpZMk5qWTMiLCJNVEV5TmpBNE5EWXdMalEyTmpZMk5qWTMiLCJNVEl4TlRVeE5qRTBMalk9IiwiTVRJeE1EVTJPVGN3TGpZMk5qWTJOalkzIiwiTWpVNE5qTTNPVEl1T1RNek16TXpNek0wIiwiTnpVM05USTBNekV1TnpNek16TXpNek09Il0=",
