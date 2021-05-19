@@ -96,7 +96,7 @@
     "name": "Elyd0wn - Dev Mirage"
   },
   {
-    "look": {"_type":"EntityLook","bonesId":5197,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
+    "look": {"_type":"EntityLook","bonesId":5197,"skins":[],"indexedColors":[],"scales":[300],"subentities":[]},
     "type": 4,
     "target": "WyJNVEkzTmpBeU5EY3hMalV6TXpNek16TXoiXQ==",
     "ornament":80,
