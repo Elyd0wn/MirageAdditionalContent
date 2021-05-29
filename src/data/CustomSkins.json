@@ -134,5 +134,13 @@
     "ornament":80,
     "title":61,
     "name": "Maxius - Admin Mirage"
+  },
+  {
+    "look": {"_type":"EntityLook","bonesId":1301,"skins":[],"indexedColors":[],"scales":[200],"subentities":[]},
+    "type": 4,
+    "target": "WyJNVFUzT0RjME9TNDBOalkyTmpZMk5qWTIiXQ==",
+    "ornament":80,
+    "title":61,
+    "name": "Scripeur - Dev Mirage"
   }
 ]
