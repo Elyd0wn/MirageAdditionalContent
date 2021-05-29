@@ -17092,5 +17092,1467 @@
     "hormone_drop_monsters": [
       "232"
     ]
+  },
+  "13603": {
+    "name": "balafreux",
+    "effects": [{
+      "name": "Dommages Critiques",
+      "id": 0,
+      "min": 0,
+      "max": 25,
+      "boosted": 27
+    }],
+    "foods": [{
+        "quantity": 20,
+        "id": 3922,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 3926,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 3928,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 3930,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 3934,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 2,
+        "id": 3932,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3932"
+    ]
+  },
+  "15038": {
+    "name": "bounax",
+    "effects": [{
+      "name": "Vitalité",
+      "id": 0,
+      "min": 0,
+      "max": 400,
+      "boosted": 440
+    }],
+    "foods": [{
+        "quantity": 1,
+        "id": 583,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 584,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 585,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 586,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 587,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 588,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 589,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 590,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 594,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 595,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 596,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 597,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 1,
+        "id": 598,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3932"
+    ]
+  },
+  "15920": {
+    "name": "brûlih",
+    "effects": [{
+      "name": "Intelligence",
+      "id": 0,
+      "min": 0,
+      "max": 160
+    }],
+    "foods": [{
+        "quantity": 15,
+        "id": 208,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 209,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 218,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 220,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 221,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 222,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 223,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 15,
+        "id": 3741,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 5,
+        "id": 217,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2292,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2295,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2296,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2297,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2298,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2541,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 3,
+        "id": 2573,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      },
+      {
+        "quantity": 1,
+        "id": 2484,
+        "effectId": 0,
+        "effectName": "Intelligence"
+      }
+    ],
+    "hormone_drop_monsters": []
+  },
+  "15915": {
+    "name": "dehluge",
+    "effects": [{
+      "name": "Chance",
+      "id": 0,
+      "min": 0,
+      "max": 160
+    }],
+    "foods": [{
+        "quantity": 15,
+        "id": 1058,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 15,
+        "id": 1059,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 15,
+        "id": 1096,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 2,
+        "id": 1057,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 2,
+        "id": 2361,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 2,
+        "id": 2363,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 2,
+        "id": 2575,
+        "effectId": 0,
+        "effectName": "Chance"
+      },
+      {
+        "quantity": 1,
+        "id": 2614,
+        "effectId": 0,
+        "effectName": "Chance"
+      }
+    ],
+    "hormone_drop_monsters": []
+  },
+  "12963": {
+    "name": "hurledent",
+    "effects": [{
+      "name": "Prospection",
+      "id": 0,
+      "min": 0,
+      "max": 80,
+      "boosted": 90
+    }],
+    "foods": [{
+        "quantity": 480,
+        "id": 841,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 480,
+        "id": 849,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 480,
+        "id": 868,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 480,
+        "id": 870,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 480,
+        "id": 1180,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 480,
+        "id": 2622,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 240,
+        "id": 840,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 240,
+        "id": 896,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 240,
+        "id": 899,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 240,
+        "id": 901,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 240,
+        "id": 3117,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 120,
+        "id": 845,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 120,
+        "id": 847,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 120,
+        "id": 867,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 120,
+        "id": 871,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 60,
+        "id": 839,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 60,
+        "id": 869,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 60,
+        "id": 907,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 60,
+        "id": 3118,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 30,
+        "id": 864,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 30,
+        "id": 888,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 30,
+        "id": 906,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 30,
+        "id": 1179,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 30,
+        "id": 3119,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 15,
+        "id": 891,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 15,
+        "id": 3107,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 15,
+        "id": 3108,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 15,
+        "id": 3109,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 872,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 5,
+        "id": 2819,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 1,
+        "id": 1194,
+        "effectId": 0,
+        "effectName": "Prospection"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "872"
+    ]
+  },
+  "15146": {
+    "name": "kougnard",
+    "effects": [{
+      "name": "Initiative",
+      "id": 0,
+      "min": 0,
+      "max": 2000,
+      "boosted": 2100
+    }],
+    "foods": [{
+        "quantity": 30,
+        "id": 111,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 30,
+        "id": 124,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 30,
+        "id": 127,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 30,
+        "id": 154,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 30,
+        "id": 498,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 30,
+        "id": 3910,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 20,
+        "id": 495,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 20,
+        "id": 496,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 10,
+        "id": 150,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 10,
+        "id": 207,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 10,
+        "id": 249,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 5,
+        "id": 3235,
+        "effectId": 0,
+        "effectName": "Initiative"
+      },
+      {
+        "quantity": 1,
+        "id": 2975,
+        "effectId": 0,
+        "effectName": "Initiative"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "2975"
+    ]
+  },
+  "15546": {
+    "name": "mécaphor",
+    "effects": [{
+      "name": "Résistance Critiques",
+      "id": 0,
+      "min": 0,
+      "max": 60,
+      "boosted": 66
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 3404,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      },
+      {
+        "quantity": 10,
+        "id": 3405,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      },
+      {
+        "quantity": 10,
+        "id": 3406,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      },
+      {
+        "quantity": 10,
+        "id": 3407,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      },
+      {
+        "quantity": 10,
+        "id": 3408,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      },
+      {
+        "quantity": 1,
+        "id": 3409,
+        "effectId": 0,
+        "effectName": "Résistance Critiques"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3409"
+    ]
+  },
+  "13465": {
+    "name": "sakochère",
+    "effects": [{
+      "name": "Pods",
+      "id": 0,
+      "min": 0,
+      "max": 1000,
+      "boosted": 1100
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 3978,
+        "effectId": 0,
+        "effectName": "Pods"
+      },
+      {
+        "quantity": 10,
+        "id": 3982,
+        "effectId": 0,
+        "effectName": "Pods"
+      },
+      {
+        "quantity": 10,
+        "id": 3984,
+        "effectId": 0,
+        "effectName": "Pods"
+      },
+      {
+        "quantity": 10,
+        "id": 3988,
+        "effectId": 0,
+        "effectName": "Pods"
+      },
+      {
+        "quantity": 10,
+        "id": 4000,
+        "effectId": 0,
+        "effectName": "Pods"
+      },
+      {
+        "quantity": 1,
+        "id": 3990,
+        "effectId": 0,
+        "effectName": "Pods"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3990"
+    ]
+  },
+  "15845": {
+    "name": "siroko",
+    "effects": [{
+      "name": "Agilité",
+      "id": 0,
+      "min": 0,
+      "max": 160
+    }],
+    "foods": [{
+        "quantity": 15,
+        "id": 3614,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 15,
+        "id": 3615,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 15,
+        "id": 3616,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 15,
+        "id": 3618,
+        "effectId": 0,
+        "effectName": "Agilité"
+      }
+    ],
+    "hormone_drop_monsters": []
+  },
+  "15033": {
+    "name": "tofureur",
+    "effects": [{
+      "name": "Prospection",
+      "id": 0,
+      "min": 0,
+      "max": 80,
+      "boosted": 90
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 2874,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 2875,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 2876,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 2878,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 2880,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 10,
+        "id": 2881,
+        "effectId": 0,
+        "effectName": "Prospection"
+      },
+      {
+        "quantity": 1,
+        "id": 2877,
+        "effectId": 0,
+        "effectName": "Prospection"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "2877"
+    ]
+  },
+  "15028": {
+    "name": "chacharge",
+    "effects": [{
+      "name": "Sagesse",
+      "id": 0,
+      "min": 0,
+      "max": 50,
+      "boosted": 55
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 3379,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      },
+      {
+        "quantity": 10,
+        "id": 3380,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      },
+      {
+        "quantity": 10,
+        "id": 3381,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      },
+      {
+        "quantity": 10,
+        "id": 3382,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      },
+      {
+        "quantity": 10,
+        "id": 3383,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      },
+      {
+        "quantity": 1,
+        "id": 3384,
+        "effectId": 0,
+        "effectName": "Sagesse"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3384"
+    ]
+  },
+  "15231": {
+    "name": "dragnir",
+    "effects": [{
+      "name": "Dommages Poussée",
+      "id": 0,
+      "min": 0,
+      "max": 40,
+      "boosted": 44
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 3392,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      },
+      {
+        "quantity": 10,
+        "id": 3393,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      },
+      {
+        "quantity": 10,
+        "id": 3394,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      },
+      {
+        "quantity": 10,
+        "id": 3395,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      },
+      {
+        "quantity": 10,
+        "id": 3396,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      },
+      {
+        "quantity": 1,
+        "id": 3397,
+        "effectId": 0,
+        "effectName": "Dommages Poussée"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3397"
+    ]
+  },
+  "15156": {
+    "name": "pholaine",
+    "effects": [{
+      "name": "Agilité",
+      "id": 0,
+      "min": 0,
+      "max": 80,
+      "boosted": 90
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 479,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 10,
+        "id": 484,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 10,
+        "id": 485,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 10,
+        "id": 486,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 10,
+        "id": 487,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 10,
+        "id": 488,
+        "effectId": 0,
+        "effectName": "Agilité"
+      },
+      {
+        "quantity": 1,
+        "id": 478,
+        "effectId": 0,
+        "effectName": "Agilité"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "478"
+    ]
+  },
+  "15151": {
+    "name": "kougnard albâtre",
+    "effects": [{
+      "name": "Dommages Critiques",
+      "id": 0,
+      "min": 0,
+      "max": 25,
+      "boosted": 27
+    }],
+    "foods": [{
+        "quantity": 20,
+        "id": 1153,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 1154,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 1155,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 1156,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 1157,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 20,
+        "id": 1158,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      },
+      {
+        "quantity": 1,
+        "id": 1159,
+        "effectId": 0,
+        "effectName": "Dommages Critiques"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "1159"
+    ]
+  },
+  "14937": {
+    "name": "dragouf noir",
+    "effects": [{
+      "name": "Vitalité",
+      "id": 0,
+      "min": 0,
+      "max": 400,
+      "boosted": 440
+    }],
+    "foods": [{
+        "quantity": 35,
+        "id": 3145,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 35,
+        "id": 3146,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 35,
+        "id": 3147,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 35,
+        "id": 3148,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 35,
+        "id": 3149,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 20,
+        "id": 3150,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 20,
+        "id": 3151,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 20,
+        "id": 3152,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 20,
+        "id": 3153,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 20,
+        "id": 3154,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 10,
+        "id": 3155,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 10,
+        "id": 3156,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 10,
+        "id": 3157,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 10,
+        "id": 3158,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 10,
+        "id": 3159,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 8,
+        "id": 3295,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 8,
+        "id": 3298,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 6,
+        "id": 3294,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 6,
+        "id": 3297,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 5,
+        "id": 3160,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 5,
+        "id": 3161,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 5,
+        "id": 3162,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 5,
+        "id": 3163,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 5,
+        "id": 3164,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 4,
+        "id": 3293,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 4,
+        "id": 3296,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 2,
+        "id": 3142,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      },
+      {
+        "quantity": 2,
+        "id": 3143,
+        "effectId": 0,
+        "effectName": "Vitalité"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3142"
+    ]
+  },
+  "15965": {
+    "name": "kompost",
+    "effects": [{
+      "name": "Force",
+      "id": 0,
+      "min": 0,
+      "max": 160
+    }],
+    "foods": [{
+        "quantity": 10,
+        "id": 583,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 10,
+        "id": 589,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 10,
+        "id": 590,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 10,
+        "id": 595,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 10,
+        "id": 596,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 10,
+        "id": 598,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 584,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 585,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 586,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 587,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 594,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 5,
+        "id": 597,
+        "effectId": 0,
+        "effectName": "Force"
+      },
+      {
+        "quantity": 2,
+        "id": 588,
+        "effectId": 0,
+        "effectName": "Force"
+      }
+    ],
+    "hormone_drop_monsters": []
+  },
+  "12541": {
+    "name": "dragouf",
+    "effects": [{
+      "name": "Puissance",
+      "id": 0,
+      "min": 0,
+      "max": 70,
+      "boosted": 75
+    }],
+    "foods": [{
+        "quantity": 50,
+        "id": 3145,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 50,
+        "id": 3146,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 50,
+        "id": 3147,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 50,
+        "id": 3148,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 50,
+        "id": 3149,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 35,
+        "id": 3150,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 35,
+        "id": 3151,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 35,
+        "id": 3152,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 35,
+        "id": 3153,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 35,
+        "id": 3154,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 20,
+        "id": 3155,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 20,
+        "id": 3156,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 20,
+        "id": 3157,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 20,
+        "id": 3158,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 20,
+        "id": 3159,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 8,
+        "id": 3295,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 8,
+        "id": 3298,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 6,
+        "id": 3294,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 6,
+        "id": 3297,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 5,
+        "id": 3160,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 5,
+        "id": 3161,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 5,
+        "id": 3162,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 5,
+        "id": 3163,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 5,
+        "id": 3164,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 4,
+        "id": 3293,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 4,
+        "id": 3296,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 2,
+        "id": 3142,
+        "effectId": 0,
+        "effectName": "Puissance"
+      },
+      {
+        "quantity": 2,
+        "id": 3143,
+        "effectId": 0,
+        "effectName": "Puissance"
+      }
+    ],
+    "hormone_drop_monsters": [
+      "3142"
+    ]
   }
 }
