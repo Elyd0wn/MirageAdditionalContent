@@ -1,0 +1,1971 @@
+{
+    "meta": {
+        "app": "https://www.npmjs.com/package/jeff",
+        "version": "0.2.10",
+        "frameRate": 12,
+        "scale": 2.5,
+        "filtering": ["linear", "linear"],
+        "mipmapCompatible": true,
+        "compressedMatrices": true,
+        "prerendered": false,
+        "image": "3183.png"
+    },
+    "symbols": {
+        "1": {
+            "id": 1,
+            "isGraphic": true,
+            "x": 9.5,
+            "y": 3.5,
+            "w": 17.45,
+            "h": 14.3,
+            "sx": 607,
+            "sy": 40,
+            "sw": 44,
+            "sh": 36,
+            "className": "colorgray_2_Tete_cheveux_5"
+        },
+        "3": {
+            "id": 3,
+            "isGraphic": true,
+            "x": 4,
+            "y": 4.25,
+            "w": 8,
+            "h": 8.45,
+            "sx": 850,
+            "sy": 32,
+            "sw": 20,
+            "sh": 22,
+            "className": "colorgray_1_Tete_5"
+        },
+        "5": {
+            "id": 5,
+            "isGraphic": true,
+            "x": 3.25,
+            "y": 1.9,
+            "w": 6.55,
+            "h": 3.8,
+            "sx": 426,
+            "sy": 96,
+            "sw": 17,
+            "sh": 10,
+            "className": "colorgray_1_Tete_sourcile_1"
+        },
+        "7": {
+            "id": 7,
+            "isGraphic": true,
+            "x": 2,
+            "y": 1.35,
+            "w": 4.05,
+            "h": 2.65,
+            "sx": 909,
+            "sy": 82,
+            "sw": 11,
+            "sh": 7,
+            "className": "colorgray_1_Tete_sourcil_1"
+        },
+        "9": {
+            "id": 9,
+            "isGraphic": true,
+            "x": 1.9,
+            "y": 3.65,
+            "w": 4.15,
+            "h": 6.85,
+            "sx": 901,
+            "sy": 49,
+            "sw": 11,
+            "sh": 18,
+            "className": "colorgray_3_Tete_makeup_0"
+        },
+        "11": {
+            "id": 11,
+            "isGraphic": true,
+            "x": 3.55,
+            "y": 3.45,
+            "w": 6.8,
+            "h": 7.35,
+            "sx": 817,
+            "sy": 87,
+            "sw": 17,
+            "sh": 19,
+            "className": "colorgray_3_Tete_makeup_1"
+        },
+        "13": {
+            "id": 13,
+            "isGraphic": true,
+            "x": 1.55,
+            "y": 3.6,
+            "w": 3.1,
+            "h": 7.2,
+            "sx": 836,
+            "sy": 87,
+            "sw": 8,
+            "sh": 18,
+            "className": "colorgray_2_Tete_poils_1"
+        },
+        "15": {
+            "id": 15,
+            "isGraphic": true,
+            "x": 1.85,
+            "y": 2.3,
+            "w": 3.7,
+            "h": 4.6,
+            "sx": 920,
+            "sy": 1,
+            "sw": 10,
+            "sh": 12,
+            "className": "colorgray_1_Tete_oreille_1"
+        },
+        "17": {
+            "id": 17,
+            "isGraphic": true,
+            "x": 7.2,
+            "y": 7.45,
+            "w": 15.75,
+            "h": 18.3,
+            "sx": 362,
+            "sy": 57,
+            "sw": 40,
+            "sh": 46,
+            "className": "colorgray_2_Tete_cheveux_1"
+        },
+        "19": {
+            "id": 19,
+            "isGraphic": true,
+            "x": 1.6,
+            "y": 3.6,
+            "w": 3.2,
+            "h": 7.15,
+            "sx": 901,
+            "sy": 1,
+            "sw": 8,
+            "sh": 18,
+            "className": "colorgray_2_Tete_poils_0"
+        },
+        "21": {
+            "id": 21,
+            "isGraphic": true,
+            "x": 2.6,
+            "y": 2.1,
+            "w": 5.2,
+            "h": 4.15,
+            "sx": 904,
+            "sy": 36,
+            "sw": 13,
+            "sh": 11,
+            "className": "colorgray_1_Tete_oreille_0"
+        },
+        "23": {
+            "id": 23,
+            "isGraphic": true,
+            "x": 8.35,
+            "y": 5.75,
+            "w": 18.25,
+            "h": 16.9,
+            "sx": 295,
+            "sy": 32,
+            "sw": 46,
+            "sh": 43,
+            "className": "colorgray_2_Tete_cheveux_0"
+        },
+        "25": {
+            "id": 25,
+            "isGraphic": true,
+            "x": 4.9,
+            "y": 3.95,
+            "w": 9.85,
+            "h": 7.9,
+            "sx": 566,
+            "sy": 85,
+            "sw": 25,
+            "sh": 20,
+            "className": "colorgray_2_Tete_poils_2"
+        },
+        "27": {
+            "id": 27,
+            "isGraphic": true,
+            "x": 7.05,
+            "y": 6.75,
+            "w": 14.1,
+            "h": 13.5,
+            "sx": 691,
+            "sy": 41,
+            "sw": 36,
+            "sh": 34,
+            "className": "colorgray_2_Tete_che_2"
+        },
+        "29": {
+            "id": 29,
+            "isGraphic": true,
+            "x": 6.4,
+            "y": 3.55,
+            "w": 12.6,
+            "h": 11.2,
+            "sx": 607,
+            "sy": 78,
+            "sw": 32,
+            "sh": 28,
+            "className": "colorgray_2_Tete_cheveux_2"
+        },
+        "31": {
+            "id": 31,
+            "isGraphic": true,
+            "x": 6.95,
+            "y": 10.65,
+            "w": 14.1,
+            "h": 21.5,
+            "sx": 343,
+            "sy": 1,
+            "sw": 36,
+            "sh": 54,
+            "className": "colorgray_2_Tete_cheveux_6"
+        },
+        "33": {
+            "id": 33,
+            "isGraphic": true,
+            "x": 4.5,
+            "y": 6.15,
+            "w": 9,
+            "h": 12.25,
+            "sx": 792,
+            "sy": 61,
+            "sw": 23,
+            "sh": 31,
+            "className": "colorgray_1_Tete_6"
+        },
+        "35": {
+            "id": 35,
+            "isGraphic": true,
+            "x": 3.8,
+            "y": 1.45,
+            "w": 7.6,
+            "h": 2.9,
+            "sx": 544,
+            "sy": 96,
+            "sw": 19,
+            "sh": 8,
+            "className": "colorgray_1_Tete_sourcil_2"
+        },
+        "37": {
+            "id": 37,
+            "isGraphic": true,
+            "x": 9.9,
+            "y": 7.85,
+            "w": 19.8,
+            "h": 15.7,
+            "sx": 243,
+            "sy": 54,
+            "sw": 50,
+            "sh": 40,
+            "className": "colorgray_2_cheuve_0"
+        },
+        "39": {
+            "id": 39,
+            "isGraphic": true,
+            "x": 7.1,
+            "y": 6.9,
+            "w": 14.2,
+            "h": 13.8,
+            "sx": 653,
+            "sy": 41,
+            "sw": 36,
+            "sh": 35,
+            "className": "colorgray_2_cheuve_2"
+        },
+        "41": {
+            "id": 41,
+            "isGraphic": true,
+            "x": 8.55,
+            "y": 7.3,
+            "w": 17.15,
+            "h": 14.6,
+            "sx": 605,
+            "sy": 1,
+            "sw": 43,
+            "sh": 37,
+            "className": "colorgray_2_cheve_5"
+        },
+        "43": {
+            "id": 43,
+            "isGraphic": true,
+            "x": 6.9,
+            "y": 6.75,
+            "w": 13.95,
+            "h": 13.1,
+            "sx": 696,
+            "sy": 1,
+            "sw": 35,
+            "sh": 33,
+            "className": "colorgray_2_cheve_6"
+        },
+        "45": {
+            "id": 45,
+            "isGraphic": true,
+            "x": 8.6,
+            "y": 7.45,
+            "w": 17.15,
+            "h": 14.85,
+            "sx": 560,
+            "sy": 1,
+            "sw": 43,
+            "sh": 38,
+            "className": "colorgray_2_cheve_1"
+        },
+        "47": {
+            "id": 47,
+            "isGraphic": true,
+            "x": 5.7,
+            "y": 5.1,
+            "w": 11.4,
+            "h": 10.1,
+            "sx": 788,
+            "sy": 33,
+            "sw": 29,
+            "sh": 26,
+            "className": "colorGray_5_Ponpon_6"
+        },
+        "49": {
+            "id": 49,
+            "isGraphic": true,
+            "x": 7.85,
+            "y": 8.75,
+            "w": 15.7,
+            "h": 18.15,
+            "sx": 404,
+            "sy": 48,
+            "sw": 40,
+            "sh": 46,
+            "className": "colorGray_4_nattebonnet_6"
+        },
+        "51": {
+            "id": 51,
+            "isGraphic": true,
+            "x": 2.6,
+            "y": -10.85,
+            "w": 5.7,
+            "h": 3.75,
+            "sx": 261,
+            "sy": 96,
+            "sw": 15,
+            "sh": 10
+        },
+        "52": {
+            "id": 52,
+            "isAnimation": true,
+            "children": [{
+                "id": 47,
+                "frames": [0, 0],
+                "transforms": [29],
+                "colors": [0]
+            }, {
+                "id": 51,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 49,
+                "frames": [0, 0],
+                "transforms": [37],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Natte_6"
+        },
+        "53": {
+            "id": 53,
+            "isGraphic": true,
+            "x": 5.7,
+            "y": 4.85,
+            "w": 11.4,
+            "h": 9.4,
+            "sx": 819,
+            "sy": 30,
+            "sw": 29,
+            "sh": 24,
+            "className": "colorGray_5_Ponpon_5"
+        },
+        "55": {
+            "id": 55,
+            "isGraphic": true,
+            "x": 6.65,
+            "y": 9.75,
+            "w": 13.35,
+            "h": 19.6,
+            "sx": 524,
+            "sy": 1,
+            "sw": 34,
+            "sh": 49,
+            "className": "colorGray_4_nattebonnet_5"
+        },
+        "57": {
+            "id": 57,
+            "isGraphic": true,
+            "x": -1.2,
+            "y": -8.3,
+            "w": 4.85,
+            "h": 4.35,
+            "sx": 909,
+            "sy": 69,
+            "sw": 13,
+            "sh": 11
+        },
+        "58": {
+            "id": 58,
+            "isAnimation": true,
+            "children": [{
+                "id": 53,
+                "frames": [0, 0],
+                "transforms": [58],
+                "colors": [0]
+            }, {
+                "id": 57,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 55,
+                "frames": [0, 0],
+                "transforms": [48],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Natte_5"
+        },
+        "59": {
+            "id": 59,
+            "isGraphic": true,
+            "x": 8.4,
+            "y": 10.2,
+            "w": 16.8,
+            "h": 20.35,
+            "sx": 228,
+            "sy": 1,
+            "sw": 42,
+            "sh": 51,
+            "className": "colorGray_4_nattebonnet_2"
+        },
+        "61": {
+            "id": 61,
+            "isGraphic": true,
+            "x": 5.8,
+            "y": 4.65,
+            "w": 11.6,
+            "h": 9.35,
+            "sx": 817,
+            "sy": 61,
+            "sw": 29,
+            "sh": 24,
+            "className": "colorGray_5_qeu_2"
+        },
+        "63": {
+            "id": 63,
+            "isGraphic": true,
+            "x": 3.1,
+            "y": -15.8,
+            "w": 6.25,
+            "h": 4.1,
+            "sx": 243,
+            "sy": 96,
+            "sw": 16,
+            "sh": 11
+        },
+        "64": {
+            "id": 64,
+            "isAnimation": true,
+            "children": [{
+                "id": 59,
+                "frames": [0, 0],
+                "transforms": [38],
+                "colors": [0]
+            }, {
+                "id": 63,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 61,
+                "frames": [0, 0],
+                "transforms": [40],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Natte_2"
+        },
+        "65": {
+            "id": 65,
+            "isGraphic": true,
+            "x": 6.25,
+            "y": 11.1,
+            "w": 12.45,
+            "h": 22.2,
+            "sx": 446,
+            "sy": 41,
+            "sw": 32,
+            "sh": 56,
+            "className": "colorGray_4_nattebonnet_0"
+        },
+        "67": {
+            "id": 67,
+            "isGraphic": true,
+            "x": 5.4,
+            "y": 5.2,
+            "w": 10.75,
+            "h": 10.45,
+            "sx": 815,
+            "sy": 1,
+            "sw": 27,
+            "sh": 27,
+            "className": "colorGray_5_Ponpon_0"
+        },
+        "69": {
+            "id": 69,
+            "isGraphic": true,
+            "x": 3.95,
+            "y": -9.6,
+            "w": 4.7,
+            "h": 5,
+            "sx": 908,
+            "sy": 91,
+            "sw": 12,
+            "sh": 13
+        },
+        "70": {
+            "id": 70,
+            "isAnimation": true,
+            "children": [{
+                "id": 65,
+                "frames": [0, 0],
+                "transforms": [50],
+                "colors": [0]
+            }, {
+                "id": 69,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 67,
+                "frames": [0, 0],
+                "transforms": [24],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Natte_0"
+        },
+        "71": {
+            "id": 71,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Bandeau_6"
+        },
+        "72": {
+            "id": 72,
+            "isGraphic": true,
+            "x": 2,
+            "y": 4.55,
+            "w": 4,
+            "h": 9.1,
+            "sx": 510,
+            "sy": 85,
+            "sw": 11,
+            "sh": 23,
+            "className": "colorGray_5_MotifBonnetlD_6"
+        },
+        "74": {
+            "id": 74,
+            "isGraphic": true,
+            "x": 2,
+            "y": 4.55,
+            "w": 4,
+            "h": 9.1,
+            "sx": 593,
+            "sy": 85,
+            "sw": 11,
+            "sh": 23,
+            "className": "colorGray_5_MotifBonnetlG_6"
+        },
+        "76": {
+            "id": 76,
+            "isGraphic": true,
+            "x": 13.25,
+            "y": 7.85,
+            "w": 26.45,
+            "h": 11.35,
+            "sx": 272,
+            "sy": 1,
+            "sw": 67,
+            "sh": 29,
+            "className": "colorGray_4_chapeau_6"
+        },
+        "78": {
+            "id": 78,
+            "isAnimation": true,
+            "children": [{
+                "id": 72,
+                "frames": [0, 0],
+                "transforms": [61],
+                "colors": [0]
+            }, {
+                "id": 74,
+                "frames": [0, 0],
+                "transforms": [63],
+                "colors": [0]
+            }, {
+                "id": 76,
+                "frames": [0, 0],
+                "transforms": [62],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Chapeau_6"
+        },
+        "79": {
+            "id": 79,
+            "isGraphic": true,
+            "x": 3.5,
+            "y": 1.4,
+            "w": 7,
+            "h": 2.75,
+            "sx": 381,
+            "sy": 48,
+            "sw": 18,
+            "sh": 7,
+            "className": "colorGray_5_MotifFront_6"
+        },
+        "81": {
+            "id": 81,
+            "isGraphic": true,
+            "x": 8.05,
+            "y": 9,
+            "w": 16.05,
+            "h": 17.95,
+            "sx": 381,
+            "sy": 1,
+            "sw": 41,
+            "sh": 45,
+            "className": "colorGray_4_bonnet_6"
+        },
+        "83": {
+            "id": 83,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Masque_6"
+        },
+        "84": {
+            "id": 84,
+            "isGraphic": true,
+            "x": 6.9,
+            "y": 10.65,
+            "w": 13.05,
+            "h": 10.55,
+            "sx": 641,
+            "sy": 78,
+            "sw": 33,
+            "sh": 27
+        },
+        "85": {
+            "id": 85,
+            "isAnimation": true,
+            "children": [{
+                "id": 71,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 78,
+                "frames": [0, 0],
+                "transforms": [36],
+                "colors": [0]
+            }, {
+                "id": 79,
+                "frames": [0, 0],
+                "transforms": [27],
+                "colors": [0]
+            }, {
+                "id": 81,
+                "frames": [0, 0],
+                "transforms": [30],
+                "colors": [0]
+            }, {
+                "id": 84,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 83,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Tete_6"
+        },
+        "86": {
+            "id": 86,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Bandeau_5"
+        },
+        "87": {
+            "id": 87,
+            "isGraphic": true,
+            "x": 4.25,
+            "y": 2.25,
+            "w": 8.65,
+            "h": 5.1,
+            "sx": 792,
+            "sy": 94,
+            "sw": 22,
+            "sh": 13,
+            "className": "colorGray_5_MotifBonnetG_5"
+        },
+        "89": {
+            "id": 89,
+            "isGraphic": true,
+            "x": 2.4,
+            "y": 4.7,
+            "w": 4.8,
+            "h": 9.4,
+            "sx": 676,
+            "sy": 78,
+            "sw": 13,
+            "sh": 25,
+            "className": "colorGray_5_MotifBonnetD_5"
+        },
+        "91": {
+            "id": 91,
+            "isGraphic": true,
+            "x": 10.15,
+            "y": 9.1,
+            "w": 20.7,
+            "h": 13.6,
+            "sx": 424,
+            "sy": 1,
+            "sw": 58,
+            "sh": 38,
+            "className": "colorGray_4_chapeau_5"
+        },
+        "93": {
+            "id": 93,
+            "isAnimation": true,
+            "children": [{
+                "id": 87,
+                "frames": [0, 0],
+                "transforms": [17],
+                "colors": [0]
+            }, {
+                "id": 89,
+                "frames": [0, 0],
+                "transforms": [64],
+                "colors": [0]
+            }, {
+                "id": 91,
+                "frames": [0, 0],
+                "transforms": [65],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Chapeau_5"
+        },
+        "94": {
+            "id": 94,
+            "isGraphic": true,
+            "x": 3.2,
+            "y": 1.3,
+            "w": 6.45,
+            "h": 2.55,
+            "sx": 343,
+            "sy": 67,
+            "sw": 17,
+            "sh": 7,
+            "className": "colorGray_5_MotifFront_5"
+        },
+        "96": {
+            "id": 96,
+            "isGraphic": true,
+            "x": 5.85,
+            "y": 7.95,
+            "w": 16.7,
+            "h": 16.75,
+            "sx": 480,
+            "sy": 41,
+            "sw": 42,
+            "sh": 42,
+            "className": "colorGray_4_bonnet_5"
+        },
+        "98": {
+            "id": 98,
+            "isGraphic": true,
+            "x": 2.1,
+            "y": 5.9,
+            "w": 4.2,
+            "h": 11.8,
+            "sx": 875,
+            "sy": 32,
+            "sw": 11,
+            "sh": 30,
+            "className": "colorGray_5_Capuche_5"
+        },
+        "100": {
+            "id": 100,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Masque_5"
+        },
+        "101": {
+            "id": 101,
+            "isGraphic": true,
+            "x": 5.8,
+            "y": 7.25,
+            "w": 11.65,
+            "h": 14.45,
+            "sx": 729,
+            "sy": 36,
+            "sw": 30,
+            "sh": 37,
+            "className": "3183_fla.colorgray_1_Tete_5_56"
+        },
+        "103": {
+            "id": 103,
+            "isAnimation": true,
+            "children": [{
+                "id": 86,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 93,
+                "frames": [0, 0],
+                "transforms": [33],
+                "colors": [0]
+            }, {
+                "id": 94,
+                "frames": [0, 0],
+                "transforms": [46],
+                "colors": [0]
+            }, {
+                "id": 96,
+                "frames": [0, 0],
+                "transforms": [47],
+                "colors": [0]
+            }, {
+                "id": 98,
+                "frames": [0, 0],
+                "transforms": [25],
+                "colors": [0]
+            }, {
+                "id": 101,
+                "frames": [0, 0],
+                "transforms": [15],
+                "colors": [0]
+            }, {
+                "id": 100,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Tete_5"
+        },
+        "104": {
+            "id": 104,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Masque_2"
+        },
+        "105": {
+            "id": 105,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Bandeau_2"
+        },
+        "106": {
+            "id": 106,
+            "isGraphic": true,
+            "x": 2.05,
+            "y": 4.5,
+            "w": 4.1,
+            "h": 8.95,
+            "sx": 888,
+            "sy": 49,
+            "sw": 11,
+            "sh": 23,
+            "className": "colorGray_5_MotifcpnnetG_2"
+        },
+        "108": {
+            "id": 108,
+            "isGraphic": true,
+            "x": 2.1,
+            "y": 4.5,
+            "w": 4.15,
+            "h": 8.95,
+            "sx": 888,
+            "sy": 1,
+            "sw": 11,
+            "sh": 23,
+            "className": "colorGray_5_MotifcpnnetD_2"
+        },
+        "110": {
+            "id": 110,
+            "isGraphic": true,
+            "x": 12.9,
+            "y": 7.05,
+            "w": 25.8,
+            "h": 10.95,
+            "sx": 295,
+            "sy": 77,
+            "sw": 65,
+            "sh": 28,
+            "className": "colorGray_4_chapeau_2"
+        },
+        "112": {
+            "id": 112,
+            "isAnimation": true,
+            "children": [{
+                "id": 106,
+                "frames": [0, 0],
+                "transforms": [20],
+                "colors": [0]
+            }, {
+                "id": 108,
+                "frames": [0, 0],
+                "transforms": [18],
+                "colors": [0]
+            }, {
+                "id": 110,
+                "frames": [0, 0],
+                "transforms": [19],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Chapeau_2"
+        },
+        "113": {
+            "id": 113,
+            "isGraphic": true,
+            "x": 3.4,
+            "y": 3,
+            "w": 6.85,
+            "h": 6,
+            "sx": 888,
+            "sy": 91,
+            "sw": 18,
+            "sh": 15,
+            "className": "colorGray_5_MotifFrontal_2"
+        },
+        "115": {
+            "id": 115,
+            "isGraphic": true,
+            "x": 7.25,
+            "y": 5.25,
+            "w": 14.55,
+            "h": 10.5,
+            "sx": 691,
+            "sy": 77,
+            "sw": 37,
+            "sh": 27,
+            "className": "colorGray_5_Capuche_2"
+        },
+        "117": {
+            "id": 117,
+            "isGraphic": true,
+            "x": 7.9,
+            "y": 8.4,
+            "w": 15.75,
+            "h": 16.75,
+            "sx": 524,
+            "sy": 52,
+            "sw": 40,
+            "sh": 42,
+            "className": "colorGray_4_bonnet_2"
+        },
+        "119": {
+            "id": 119,
+            "isGraphic": true,
+            "x": 5,
+            "y": 6.25,
+            "w": 10,
+            "h": 12.5,
+            "sx": 761,
+            "sy": 28,
+            "sw": 25,
+            "sh": 32,
+            "className": "colorGray_2_chev_2"
+        },
+        "121": {
+            "id": 121,
+            "isGraphic": true,
+            "x": 5.85,
+            "y": 0.65,
+            "w": 10.6,
+            "h": 2.1,
+            "sx": 763,
+            "sy": 93,
+            "sw": 27,
+            "sh": 6,
+            "className": "colorGray_2_Sourcil_2"
+        },
+        "123": {
+            "id": 123,
+            "isGraphic": true,
+            "x": 16,
+            "y": 17.55,
+            "w": 30.1,
+            "h": 38.1,
+            "sx": 103,
+            "sy": 1,
+            "sw": 76,
+            "sh": 96,
+            "className": "colorGray_1_Tete_2"
+        },
+        "125": {
+            "id": 125,
+            "isGraphic": true,
+            "x": 6.45,
+            "y": 4.95,
+            "w": 12.9,
+            "h": 9.85,
+            "sx": 733,
+            "sy": 1,
+            "sw": 33,
+            "sh": 25,
+            "className": "colorGray_5_capuchefont_2"
+        },
+        "127": {
+            "id": 127,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "MasqueB_2"
+        },
+        "128": {
+            "id": 128,
+            "isGraphic": true,
+            "x": 3.9,
+            "y": 2.65,
+            "w": 5,
+            "h": 5.6,
+            "sx": 875,
+            "sy": 64,
+            "sw": 9,
+            "sh": 10
+        },
+        "129": {
+            "id": 129,
+            "isGraphic": true,
+            "x": 0,
+            "y": 0,
+            "w": 10.4,
+            "h": 14.75,
+            "sx": 560,
+            "sy": 41,
+            "sw": 3,
+            "sh": 5
+        },
+        "131": {
+            "id": 131,
+            "isGraphic": true,
+            "x": 3.9,
+            "y": 2.75,
+            "w": 7.75,
+            "h": 4.6,
+            "sx": 343,
+            "sy": 57,
+            "sw": 14,
+            "sh": 8
+        },
+        "132": {
+            "id": 132,
+            "isGraphic": true,
+            "x": -0.95,
+            "y": 2.75,
+            "w": 2.9,
+            "h": 1.7,
+            "sx": 901,
+            "sy": 69,
+            "sw": 5,
+            "sh": 3
+        },
+        "133": {
+            "id": 133,
+            "isAnimation": true,
+            "children": [{
+                "id": 132,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 129,
+                "frames": [0, 0],
+                "transforms": [4],
+                "colors": [0]
+            }, {
+                "id": 131,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 129,
+                "frames": [0, 0],
+                "transforms": [3],
+                "colors": [0]
+            }, {
+                "id": 128,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1
+        },
+        "134": {
+            "id": 134,
+            "isAnimation": true,
+            "children": [{
+                "id": 104,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 105,
+                "frames": [0, 0],
+                "transforms": [16],
+                "colors": [0]
+            }, {
+                "id": 112,
+                "frames": [0, 0],
+                "transforms": [32],
+                "colors": [0]
+            }, {
+                "id": 113,
+                "frames": [0, 0],
+                "transforms": [41],
+                "colors": [0]
+            }, {
+                "id": 115,
+                "frames": [0, 0],
+                "transforms": [44],
+                "colors": [0]
+            }, {
+                "id": 117,
+                "frames": [0, 0],
+                "transforms": [45],
+                "colors": [0]
+            }, {
+                "id": 119,
+                "frames": [0, 0],
+                "transforms": [43],
+                "colors": [0]
+            }, {
+                "id": 121,
+                "frames": [0, 0],
+                "transforms": [10],
+                "colors": [0]
+            }, {
+                "id": 133,
+                "frames": [0, 0],
+                "transforms": [14],
+                "colors": [0]
+            }, {
+                "id": 123,
+                "frames": [0, 0],
+                "transforms": [8],
+                "colors": [0]
+            }, {
+                "id": 125,
+                "frames": [0, 0],
+                "transforms": [42],
+                "colors": [0]
+            }, {
+                "id": 127,
+                "frames": [0, 0],
+                "transforms": [35],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Tete_2"
+        },
+        "135": {
+            "id": 135,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Masque_1"
+        },
+        "136": {
+            "id": 136,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Bandeau_1"
+        },
+        "137": {
+            "id": 137,
+            "isGraphic": true,
+            "x": 3.3,
+            "y": 3.4,
+            "w": 6.6,
+            "h": 7.5,
+            "sx": 272,
+            "sy": 32,
+            "sw": 17,
+            "sh": 19,
+            "className": "colorGray_5_MotifBonnetG_1"
+        },
+        "139": {
+            "id": 139,
+            "isGraphic": true,
+            "x": 2.65,
+            "y": 4.05,
+            "w": 5.25,
+            "h": 8.1,
+            "sx": 888,
+            "sy": 26,
+            "sw": 14,
+            "sh": 21,
+            "className": "colorGray_5_MotifBonnetD_1"
+        },
+        "141": {
+            "id": 141,
+            "isGraphic": true,
+            "x": 11.95,
+            "y": 9.05,
+            "w": 23.8,
+            "h": 14.9,
+            "sx": 181,
+            "sy": 59,
+            "sw": 60,
+            "sh": 38,
+            "className": "colorGray_4_chapeau_1"
+        },
+        "143": {
+            "id": 143,
+            "isAnimation": true,
+            "children": [{
+                "id": 137,
+                "frames": [0, 0],
+                "transforms": [55],
+                "colors": [0]
+            }, {
+                "id": 139,
+                "frames": [0, 0],
+                "transforms": [21],
+                "colors": [0]
+            }, {
+                "id": 141,
+                "frames": [0, 0],
+                "transforms": [23],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Chapeau_1"
+        },
+        "144": {
+            "id": 144,
+            "isGraphic": true,
+            "x": 3.9,
+            "y": 2.25,
+            "w": 7.85,
+            "h": 4.45,
+            "sx": 404,
+            "sy": 96,
+            "sw": 20,
+            "sh": 12,
+            "className": "colorGray_5_MotifFront_1"
+        },
+        "146": {
+            "id": 146,
+            "isGraphic": true,
+            "x": 5.3,
+            "y": 5.75,
+            "w": 10.65,
+            "h": 11.45,
+            "sx": 763,
+            "sy": 62,
+            "sw": 27,
+            "sh": 29,
+            "className": "colorGray_5_Capuche1_1"
+        },
+        "148": {
+            "id": 148,
+            "isGraphic": true,
+            "x": 5.15,
+            "y": 6.75,
+            "w": 16.4,
+            "h": 15,
+            "sx": 653,
+            "sy": 1,
+            "sw": 41,
+            "sh": 38,
+            "className": "colorGray_4_bonnet_1"
+        },
+        "150": {
+            "id": 150,
+            "isGraphic": true,
+            "x": 6.9,
+            "y": 7.35,
+            "w": 13.75,
+            "h": 14.7,
+            "sx": 484,
+            "sy": 1,
+            "sw": 35,
+            "sh": 37,
+            "className": "colorGray_2_cheuv1_1"
+        },
+        "152": {
+            "id": 152,
+            "isGraphic": true,
+            "x": 0,
+            "y": 0,
+            "w": 2.25,
+            "h": 3.25,
+            "sx": 919,
+            "sy": 36,
+            "sw": 6,
+            "sh": 9,
+            "className": "color_2_sourcilD_1"
+        },
+        "154": {
+            "id": 154,
+            "isGraphic": true,
+            "x": 4.9,
+            "y": 5.4,
+            "w": 9.75,
+            "h": 10.8,
+            "sx": 844,
+            "sy": 1,
+            "sw": 25,
+            "sh": 27,
+            "className": "colorGray_1_Tete_1"
+        },
+        "156": {
+            "id": 156,
+            "isGraphic": true,
+            "x": 4.85,
+            "y": 4.7,
+            "w": 9.75,
+            "h": 9.35,
+            "sx": 848,
+            "sy": 56,
+            "sw": 25,
+            "sh": 24,
+            "className": "colorGray_5_Capuche2_1"
+        },
+        "158": {
+            "id": 158,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "MasqueB_1"
+        },
+        "159": {
+            "id": 159,
+            "isGraphic": true,
+            "x": 4.6,
+            "y": 14.9,
+            "w": 1.85,
+            "h": 1.75,
+            "sx": 432,
+            "sy": 41,
+            "sw": 5,
+            "sh": 5
+        },
+        "160": {
+            "id": 160,
+            "isGraphic": true,
+            "x": 2.65,
+            "y": 9.6,
+            "w": 7.9,
+            "h": 8.15,
+            "sx": 848,
+            "sy": 82,
+            "sw": 20,
+            "sh": 21
+        },
+        "161": {
+            "id": 161,
+            "isAnimation": true,
+            "children": [{
+                "id": 129,
+                "frames": [0, 0],
+                "transforms": [5],
+                "colors": [0]
+            }],
+            "duration": 1
+        },
+        "162": {
+            "id": 162,
+            "isGraphic": true,
+            "x": -3.35,
+            "y": 5.55,
+            "w": 0.4,
+            "h": 0.2,
+            "sx": 815,
+            "sy": 30,
+            "sw": 1,
+            "sh": 1
+        },
+        "163": {
+            "id": 163,
+            "isGraphic": true,
+            "x": 0.95,
+            "y": 5.65,
+            "w": 2.4,
+            "h": 1.9,
+            "sx": 424,
+            "sy": 41,
+            "sw": 6,
+            "sh": 5
+        },
+        "164": {
+            "id": 164,
+            "isGraphic": true,
+            "x": 1.05,
+            "y": 5.95,
+            "w": 2.55,
+            "h": 1.5,
+            "sx": 911,
+            "sy": 13,
+            "sw": 7,
+            "sh": 4
+        },
+        "165": {
+            "id": 165,
+            "isGraphic": true,
+            "x": 0,
+            "y": 0.05,
+            "w": 5.7,
+            "h": 3.2,
+            "sx": 278,
+            "sy": 96,
+            "sw": 15,
+            "sh": 8,
+            "className": "color_2_sourcilG_1"
+        },
+        "167": {
+            "id": 167,
+            "isGraphic": true,
+            "x": -1.75,
+            "y": 6.75,
+            "w": 2.4,
+            "h": 4.9,
+            "sx": 914,
+            "sy": 49,
+            "sw": 7,
+            "sh": 13
+        },
+        "168": {
+            "id": 168,
+            "isAnimation": true,
+            "children": [{
+                "id": 135,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 136,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 143,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 144,
+                "frames": [0, 0],
+                "transforms": [49],
+                "colors": [0]
+            }, {
+                "id": 146,
+                "frames": [0, 0],
+                "transforms": [52],
+                "colors": [0]
+            }, {
+                "id": 148,
+                "frames": [0, 0],
+                "transforms": [23],
+                "colors": [0]
+            }, {
+                "id": 150,
+                "frames": [0, 0],
+                "transforms": [31],
+                "colors": [0]
+            }, {
+                "id": 167,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 165,
+                "frames": [0, 0],
+                "transforms": [9],
+                "colors": [0]
+            }, {
+                "id": 164,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 161,
+                "frames": [0, 0],
+                "transforms": [1],
+                "colors": [0]
+            }, {
+                "id": 163,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 152,
+                "frames": [0, 0],
+                "transforms": [12],
+                "colors": [0]
+            }, {
+                "id": 162,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 161,
+                "frames": [0, 0],
+                "transforms": [2],
+                "colors": [0]
+            }, {
+                "id": 160,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 154,
+                "frames": [0, 0],
+                "transforms": [28],
+                "colors": [0]
+            }, {
+                "id": 159,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 156,
+                "frames": [0, 0],
+                "transforms": [54],
+                "colors": [0]
+            }, {
+                "id": 158,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Tete_1"
+        },
+        "169": {
+            "id": 169,
+            "isGraphic": true,
+            "x": 8.95,
+            "y": 11.2,
+            "w": 17.95,
+            "h": 22.4,
+            "sx": 181,
+            "sy": 1,
+            "sw": 45,
+            "sh": 56,
+            "className": "colorGray_4_nattebonnet_1"
+        },
+        "171": {
+            "id": 171,
+            "isGraphic": true,
+            "x": 6.15,
+            "y": 5.3,
+            "w": 12.3,
+            "h": 10.65,
+            "sx": 730,
+            "sy": 75,
+            "sw": 31,
+            "sh": 27,
+            "className": "colorGray_5_Ponpon_1"
+        },
+        "173": {
+            "id": 173,
+            "isGraphic": true,
+            "x": 6.35,
+            "y": -10,
+            "w": 5.3,
+            "h": 5.2,
+            "sx": 904,
+            "sy": 21,
+            "sw": 14,
+            "sh": 13
+        },
+        "174": {
+            "id": 174,
+            "isAnimation": true,
+            "children": [{
+                "id": 169,
+                "frames": [0, 0],
+                "transforms": [53],
+                "colors": [0]
+            }, {
+                "id": 173,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 171,
+                "frames": [0, 0],
+                "transforms": [22],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Natte_1"
+        },
+        "175": {
+            "id": 175,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Masque_0"
+        },
+        "176": {
+            "id": 176,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "Bandeau_0"
+        },
+        "177": {
+            "id": 177,
+            "isGraphic": true,
+            "x": 3.75,
+            "y": 2.95,
+            "w": 7.5,
+            "h": 5.9,
+            "sx": 888,
+            "sy": 74,
+            "sw": 19,
+            "sh": 15,
+            "className": "colorGray_5_MotifBonnet_0"
+        },
+        "179": {
+            "id": 179,
+            "isGraphic": true,
+            "x": 7.65,
+            "y": 9.3,
+            "w": 9.7,
+            "h": 11.85,
+            "sx": 788,
+            "sy": 1,
+            "sw": 25,
+            "sh": 30,
+            "className": "colorGray_4_chapeau_0"
+        },
+        "181": {
+            "id": 181,
+            "isAnimation": true,
+            "children": [{
+                "id": 177,
+                "frames": [0, 0],
+                "transforms": [26],
+                "colors": [0]
+            }, {
+                "id": 179,
+                "frames": [0, 0],
+                "transforms": [51],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Chapeau_0"
+        },
+        "182": {
+            "id": 182,
+            "isGraphic": true,
+            "x": 2.85,
+            "y": 5.8,
+            "w": 5.75,
+            "h": 11.6,
+            "sx": 871,
+            "sy": 1,
+            "sw": 15,
+            "sh": 29,
+            "className": "colorGray_5_Capuche1_0"
+        },
+        "184": {
+            "id": 184,
+            "isGraphic": true,
+            "x": 3.75,
+            "y": 2.05,
+            "w": 7.5,
+            "h": 4.1,
+            "sx": 523,
+            "sy": 96,
+            "sw": 19,
+            "sh": 11,
+            "className": "colorGray_5_MotifFront_0"
+        },
+        "186": {
+            "id": 186,
+            "isGraphic": true,
+            "x": 7.55,
+            "y": 8.2,
+            "w": 15.25,
+            "h": 16.7,
+            "sx": 566,
+            "sy": 41,
+            "sw": 39,
+            "sh": 42,
+            "className": "colorGray_4_bonnet_0"
+        },
+        "188": {
+            "id": 188,
+            "isGraphic": true,
+            "x": 3.15,
+            "y": 4.45,
+            "w": 6.35,
+            "h": 8.85,
+            "sx": 870,
+            "sy": 82,
+            "sw": 16,
+            "sh": 23,
+            "className": "colorGray_2_cheuv0_0"
+        },
+        "190": {
+            "id": 190,
+            "isGraphic": true,
+            "x": 5.5,
+            "y": 3.2,
+            "w": 11.05,
+            "h": 6.45,
+            "sx": 480,
+            "sy": 85,
+            "sw": 28,
+            "sh": 17,
+            "className": "colorGray_2_sourcil_0"
+        },
+        "192": {
+            "id": 192,
+            "isGraphic": true,
+            "x": 19.9,
+            "y": 21.2,
+            "w": 39.75,
+            "h": 41.9,
+            "sx": 1,
+            "sy": 1,
+            "sw": 100,
+            "sh": 105,
+            "className": "colorGray_1_Tete_0"
+        },
+        "194": {
+            "id": 194,
+            "isGraphic": true,
+            "x": 3.3,
+            "y": 4.45,
+            "w": 6.65,
+            "h": 8.9,
+            "sx": 768,
+            "sy": 1,
+            "sw": 17,
+            "sh": 23,
+            "className": "colorGray_5_Capuche2_0"
+        },
+        "196": {
+            "id": 196,
+            "isAnimation": true,
+            "children": [],
+            "duration": 1,
+            "className": "MasqueB_0"
+        },
+        "197": {
+            "id": 197,
+            "isGraphic": true,
+            "x": 1.6,
+            "y": 2.65,
+            "w": 3.65,
+            "h": 5.3,
+            "sx": 911,
+            "sy": 1,
+            "sw": 7,
+            "sh": 10
+        },
+        "198": {
+            "id": 198,
+            "isGraphic": true,
+            "x": 1.7,
+            "y": 3,
+            "w": 2.8,
+            "h": 2.15,
+            "sx": 875,
+            "sy": 76,
+            "sw": 5,
+            "sh": 4
+        },
+        "199": {
+            "id": 199,
+            "isAnimation": true,
+            "children": [{
+                "id": 165,
+                "frames": [0, 0],
+                "transforms": [11],
+                "colors": [0]
+            }, {
+                "id": 198,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }, {
+                "id": 161,
+                "frames": [0, 0],
+                "transforms": [0],
+                "colors": [0]
+            }, {
+                "id": 197,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1
+        },
+        "201": {
+            "id": 201,
+            "isAnimation": true,
+            "children": [{
+                "id": 175,
+                "frames": [0, 0],
+                "transforms": [39],
+                "colors": [0]
+            }, {
+                "id": 176,
+                "frames": [0, 0],
+                "transforms": [39],
+                "colors": [0]
+            }, {
+                "id": 181,
+                "frames": [0, 0],
+                "transforms": [39],
+                "colors": [0]
+            }, {
+                "id": 182,
+                "frames": [0, 0],
+                "transforms": [59],
+                "colors": [0]
+            }, {
+                "id": 184,
+                "frames": [0, 0],
+                "transforms": [56],
+                "colors": [0]
+            }, {
+                "id": 186,
+                "frames": [0, 0],
+                "transforms": [51],
+                "colors": [0]
+            }, {
+                "id": 188,
+                "frames": [0, 0],
+                "transforms": [60],
+                "colors": [0]
+            }, {
+                "id": 190,
+                "frames": [0, 0],
+                "transforms": [6],
+                "colors": [0]
+            }, {
+                "id": 199,
+                "frames": [0, 0],
+                "transforms": [13],
+                "colors": [0]
+            }, {
+                "id": 192,
+                "frames": [0, 0],
+                "transforms": [7],
+                "colors": [0]
+            }, {
+                "id": 194,
+                "frames": [0, 0],
+                "transforms": [57],
+                "colors": [0]
+            }, {
+                "id": 196,
+                "frames": [0, 0],
+                "transforms": [34],
+                "colors": [0]
+            }],
+            "duration": 1,
+            "className": "Tete_0"
+        }
+    },
+    "transforms": [
+        [-0.604, -0.016, -0.01, 0.854, 0.25, -1.4],
+        [-0.543, -0.011, -0.009, 0.569, 0.6, -4.85],
+        [-0.331, -0.006, -0.008, 0.516, 3, -5.5],
+        [-0.144, -0.01, 0, 0.171, -1.4, -2.6],
+        [0.144, -0.01, 0, 0.171, 1.35, -2.6],
+        [0.2, 0, 0, 0.2, -1.15, -1.35],
+        [0.22, 0.044, -0.044, 0.22, 5.1, -3.95],
+        [0.224, 0, 0, 0.224, 2.8, -3.65],
+        [0.244, 0, 0, 0.226, 0.35, -5.65],
+        [0.57, -0.146, -0.01, 0.639, -1.15, -6.7],
+        [0.623, 0, 0, 0.577, 0.65, -6.4],
+        [0.634, -0.219, -0.011, 0.959, -1.75, -4.25],
+        [0.638, 0.191, -0.019, 0.927, 2.65, -8.2],
+        [0.701, 0, 0, 0.701, 5.25, -2.2],
+        [0.738, 0, 0, 0.685, 0.35, -4.05],
+        [0.9, 0, 0, 0.9, 1.7, -7.5],
+        [0.95, 0, 0, 0.95, 0, 0],
+        [0.964, 0, 0, 0.964, 7.1, -14.95],
+        [0.999, 0, 0, 0.999, -7.35, -10.85],
+        [0.999, 0, 0, 0.999, 0.3, -9.25],
+        [0.999, 0, 0, 0.999, 7.9, -10.6],
+        [1, 0, 0, 1, -6.65, -8.55],
+        [1, 0, 0, 1, -4.7, 15.75],
+        [1, 0, 0, 1, -3.7, -9.6],
+        [1, 0, 0, 1, -3.35, 15],
+        [1, 0, 0, 1, -2.75, -6.55],
+        [1, 0, 0, 1, -1.55, -7.95],
+        [1, 0, 0, 1, -0.55, -15.25],
+        [1, 0, 0, 1, -0.55, -6.45],
+        [1, 0, 0, 1, -0.25, 15.65],
+        [1, 0, 0, 1, -0.05, -8.5],
+        [1, 0, 0, 1, -0.05, -8.05],
+        [1, 0, 0, 1, -0.05, 1.1],
+        [1, 0, 0, 1, -0.05, 1.15],
+        [1, 0, 0, 1, 0, 0],
+        [1, 0, 0, 1, 0, 1],
+        [1, 0, 0, 1, 0, 1.2],
+        [1, 0, 0, 1, 0, 5.45],
+        [1, 0, 0, 1, 0, 9.45],
+        [1, 0, 0, 1, 0.05, -0.05],
+        [1, 0, 0, 1, 0.05, 21.35],
+        [1, 0, 0, 1, 0.1, -12.1],
+        [1, 0, 0, 1, 0.1, -3.8],
+        [1, 0, 0, 1, 0.15, -7],
+        [1, 0, 0, 1, 0.15, -4.3],
+        [1, 0, 0, 1, 0.3, -8.25],
+        [1, 0, 0, 1, 0.35, -14.05],
+        [1, 0, 0, 1, 0.4, -8.1],
+        [1, 0, 0, 1, 0.45, 3.35],
+        [1, 0, 0, 1, 0.6, -13.1],
+        [1, 0, 0, 1, 1.15, 3.45],
+        [1, 0, 0, 1, 1.3, -6.05],
+        [1, 0, 0, 1, 1.55, -5.1],
+        [1, 0, 0, 1, 2.35, 3.6],
+        [1, 0, 0, 1, 2.75, -5.15],
+        [1, 0, 0, 1, 4.55, -13.55],
+        [1, 0, 0, 1, 4.6, -11.1],
+        [1, 0, 0, 1, 5.2, -2.9],
+        [1, 0, 0, 1, 5.5, 13.3],
+        [1, 0, 0, 1, 5.95, -2.85],
+        [1, 0, 0, 1, 6.65, -3.65],
+        [1.006, 0, 0, 1.009, -7.3, -12.15],
+        [1.006, 0, 0, 1.009, 0, -9.7],
+        [1.006, 0, 0, 1.009, 7.25, -11.6],
+        [1.047, 0, -0.056, 1.047, -1.6, -9.55],
+        [1.11, 0, 0, 1.11, 0.45, -9.05]
+    ],
+    "colors": [
+        [1, 1, 1, 1, 0, 0, 0, 0]
+    ]
+}
