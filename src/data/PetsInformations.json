@@ -15351,9 +15351,7 @@
         "effectName": "Dommages renvoie"
       }
     ],
-    "hormone_drop_monsters": [
-      "121"
-    ]
+    "hormone_drop_monsters": []
   },
   "12982": {
     "name": "sourisette",
@@ -18554,5 +18552,111 @@
     "hormone_drop_monsters": [
       "3142"
     ]
+  },
+  {
+    "15697": {
+      "name": "dauge",
+      "effects": [{
+        "name": "Force",
+        "id": 0,
+        "min": 0,
+        "max": 80,
+        "boosted": 90
+      }],
+      "foods": [{
+          "quantity": 200,
+          "id": 300,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 120,
+          "id": 159,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 100,
+          "id": 298,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 100,
+          "id": 299,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 100,
+          "id": 301,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 70,
+          "id": 287,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 70,
+          "id": 3097,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 40,
+          "id": 397,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 40,
+          "id": 3098,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 40,
+          "id": 3099,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 25,
+          "id": 102,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 25,
+          "id": 3822,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 25,
+          "id": 3824,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 5,
+          "id": 3100,
+          "effectId": 0,
+          "effectName": "Force"
+        },
+        {
+          "quantity": 1,
+          "id": 232,
+          "effectId": 0,
+          "effectName": "Force"
+        }
+      ],
+      "hormone_drop_monsters": [
+        "232"
+      ]
+    }
   }
 }
