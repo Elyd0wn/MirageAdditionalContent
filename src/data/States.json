@@ -1,0 +1,492 @@
+{
+  "2": {
+    "name": "Chercheur d'âmes",
+    "icon": "capture_ame.png",
+    "description": "Active la capture des âmes des créatures vaincues à la fin du combat."
+  },
+  "6": {
+    "name": "Enraciné",
+    "icon": "enracine.png",
+    "description": "Empêche d'être déplacé ou taclé. Empêche également de tacler les adversaires."
+  },
+  "7": {
+    "name": "Pesanteur",
+    "icon": "pesanteur.png",
+    "description": "Empêche toute sorte de téléportation ou d'échange de place avec une cible sous cet état."
+  },
+  "10": {
+    "name": "Apprivoisement",
+    "icon": "apprivoisement.png",
+    "description": "Permet d'apprivoiser une monture et d'augmenter l'expérience gagnée en combat par votre monture."
+  },
+  "29": {
+    "name": "Glyphe impaire",
+    "icon": "glyphe_impaire.png",
+    "description": "Au début de son tour, le Disciple placera sur l’ensemble de la map un damier de glyphe, avec un glyphe à chaque case paire par rapport à lui (il sera donc sur une case glyphée)."
+  },
+  "30": {
+    "name": "Glyphe paire",
+    "icon": "glyphe_paire.png",
+    "description": "Au début de son tour, le Disciple placera sur l’ensemble de la map un damier de glyphe, avec un glyphe à chaque case impaire par rapport à lui (il sera donc sur une case non glyphée)."
+  },
+  "31": {
+    "name": "Encre primaire",
+    "icon": "encre_1.png",
+    "description": "Lancé par la tentacule primaire. Déploque l'état “Encre secondaire”."
+  },
+  "32": {
+    "name": "Encre secondaire",
+    "icon": "encre_2.png",
+    "description": "Lancé par la tentacule secondaire. Déploque l'état “Encre tertiaire”."
+  },
+  "33": {
+    "name": "Encre tertiaire",
+    "icon": "encre_3.png",
+    "description": "Lancé par la tentacule tertiaire. Déploque l'état “Encre quaternaire”."
+  },
+  "34": {
+    "name": "Encre quaternaire",
+    "icon": "encre_4.png",
+    "description": "Lancé par la tentacule quaternaire. Désactive l'état invulnérable du Kralamoure Géant pour 1 tour. Débloque le sort Vulnérabilité de la tourbière” qui boost tout les ennemis de 8000 dommages, 2PM, 63PO et 1000 vitalité durant 1 tour."
+  },
+  "35": {
+    "name": "Envie de tuer",
+    "icon": "krala_tuer.png",
+    "description": "Activé lorsque le Kralamoure est tapé par un sort Air. Lui fait invoquer un tentacule primaire."
+  },
+  "36": {
+    "name": "Envie de paralyser",
+    "icon": "krala_paralyser.png",
+    "description": "Activé lorsque le Kralamoure est tapé par un sort Eau. Lui fait invoquer un tentacule quaternaire."
+  },
+  "37": {
+    "name": "Envie de maudire",
+    "icon": "krala_maudire.png",
+    "description": "Activé lorsque le Kralamoure est tapé par un sort Feu. Lui fait invoquer un tentacule tertiaire."
+  },
+  "38": {
+    "name": "Envie d'empoisonner",
+    "icon": "krala_poison.png",
+    "description": "Activé lorsque le Kralamoure est tapé par un sort Terre. Lui fait invoquer un tentacule secondaire."
+  },
+  "42": {
+    "name": "Affaibli",
+    "icon": "affaibli.png",
+    "description": "Empêche d'utiliser son arme."
+  },
+  "56": {
+    "name": "Invulnérable",
+    "icon": "invulnerable.svg",
+    "description": "Rend la cible insensible à toutes sortes de dégâts."
+  },
+  "63": {
+    "name": "Lourd",
+    "icon": "lourd.png",
+    "description": "Le personnage ne peut pas être porté."
+  },
+  "74": {
+    "name": "Zombi",
+    "icon": "zombi.png",
+    "description": "Indique que la cible a été ressuscitée. Si le résurrecteur est tué, le ressuscité est tué aussi. Fixe l'état zombie et insoignable pour le reste du combat à l'entité ressuscitée."
+  },
+  "76": {
+    "name": "Insoignable",
+    "icon": "insoignable.png",
+    "description": "Empêche la cible de regagner des points de vie, par soin ou par vol de vie."
+  },
+  "92": {
+    "name": "Kaboom",
+    "icon": "kaboom.png",
+    "description": "Rend la cible invulnérable aux explosions des bombes alliés déclenchées et leur confère des bonus."
+  },
+  "96": {
+    "name": "Intaclable",
+    "icon": "intaclable.svg",
+    "description": "L'entité sous cet état ne peut pas être taclée par un adversaire."
+  },
+  "97": {
+    "name": "Indéplacable",
+    "icon": "indeplacable.png",
+    "description": "La cible ne peut plus être déplacée."
+  },
+  "105": {
+    "name": "Tyrannisé",
+    "icon": "tyranise.png",
+    "description": "Lancé par Grozilla. Si Grasmera s'attire sur vous, annule votre tour; si elle vous tape au corps à corps, vous occasionne de gros dégâts feu."
+  },
+  "106": {
+    "name": "Météoroïde",
+    "icon": "meteroide.png",
+    "description": "Lancé par Grasmera. Si Grozilla vous attire, annule votre tour; s'il vous tape au corps à corps, vous occasionne d’importants dégâts neutres supplémentaires en fonction de votre vie actuelle."
+  },
+  "107": {
+    "name": "Masse Critique",
+    "icon": "masse_critique.png",
+    "description": "Permet à Grozilla de lancer le sort ”Réaction en Chaine“ à son prochain tour qui applique l'état ”Apocalypse“ à Grasmera si elle se trouve à plus de 2PO de lui."
+  },
+  "108": {
+    "name": "Apocalypse",
+    "icon": "apocalypse.png",
+    "description": "Débloque un sort à Grasmera fait savoir à tout le monde sur la carte qui est le papa et termine le combat en tuant l’intégralité de votre équipe."
+  },
+  "121": {
+    "name": "Charge",
+    "icon": "charge.png",
+    "description": "La bombe désenvoûte de 1 tour les cibles touchées par l'explosion."
+  },
+  "122": {
+    "name": "Décharge",
+    "icon": "decharge.png",
+    "description": "La bombe désenvoûte de 2 tours les cibles touchées par l'explosion."
+  },
+  "123": {
+    "name": "Surcharge",
+    "icon": "surcharge.png",
+    "description": "La bombe désenvoûte de 3 tours les cibles touchées par l'explosion."
+  },
+  "126": {
+    "name": "Magnétor",
+    "icon": "magnetor.png",
+    "description": "Permet à la tactirelle d'attirer plutôt que de repousser."
+  },
+  "127": {
+    "name": "Terre",
+    "icon": "harpo_terre.png",
+    "description": "Oblige une harponneuse à attaquer avec l'élément Terre."
+  },
+  "128": {
+    "name": "Eau",
+    "icon": "harpo_eau.png",
+    "description": "Oblige une harponneuse à attaquer avec l'élément Eau."
+  },
+  "129": {
+    "name": "Feu",
+    "icon": "harpo_feu.png",
+    "description": "Oblige une harponneuse à attaquer avec l'élément Feu."
+  },
+  "130": {
+    "name": "Embuscade",
+    "icon": "embuscade.png",
+    "description": "La cible peut être ciblée par le sort spécial de la harponneuse. ( Dégâts )"
+  },
+  "131": {
+    "name": "Secourisme",
+    "icon": "secourisme.png",
+    "description": "La cible peut être ciblée par le sort spécial de la gardienne. ( Soins )"
+  },
+  "132": {
+    "name": "Longue-vue",
+    "icon": "longue-vue.png",
+    "description": "La cible peut être ciblée par le sort spécial de la tactirelle. ( Echange de place )"
+  },
+  "133": {
+    "name": "Cuirasse",
+    "icon": "cuirasse.png",
+    "description": "Si la cible est un allié, l'immunise contre les dégâts de la harponneuse et les déplacements de la tactirelle. Si c'est un ennemi, l'empêche de recevoir des soins de la gardienne."
+  },
+  "134": {
+    "name": "Evolution II",
+    "icon": "evolution_2.svg",
+    "description": "Harponneuse : Permet à la tourelle de taper 2 cibles, à 5 PO maximum. \n Tactirelle : Permet à la tourelle de pousser de 4 cases, à 4 PO maximum. \n Gardienne : Permet à la tourelle de soigner 2 cibles à 4 PO maximum."
+  },
+  "135": {
+    "name": "Evolution III",
+    "icon": "evolution_3.svg",
+    "description": "Harponneuse : Permet à la tourelle de taper 3 cibles, à 7 PO maximum et débloque son sort spécial. \n Tactirelle : Permet à la tourelle de pousser de 6 cases, à 6 PO maximum et débloque son sort spécial. \n Gardienne : Permet à la tourelle de soigner 3 cibles à 6 PO maximum et débloque son sort spécial."
+  },
+  "192": {
+    "name": "Invulnérable en mêlée",
+    "icon": "invulnerable_melee.svg",
+    "description": "Rend la cible insensible à toutes sortes de dégâts en mêlée."
+  },
+  "193": {
+    "name": "Invulnérable à distance",
+    "icon": "invulnerable_distance.svg",
+    "description": "Rend la cible insensible à toutes sortes de dégâts à distance."
+  },
+  "194": {
+    "name": "Pacifiste",
+    "icon": "pacifiste.svg",
+    "description": "La cible ne pourra plus effectuer un seul dommage sur quiconque tant qu'elle sera sous cet état."
+  },
+  "207": {
+    "name": "Traqué",
+    "icon": "traque.png",
+    "description": "Une cible en état Traqué sera attaquée en priorité par les invocations de classe du lanceur si elles le peuvent."
+  },
+  "209": {
+    "name": "Favoritisme",
+    "icon": "favoritisme.png",
+    "description": "Gagne 1 PA, 1 PM, 20% de vitalité et 25% de dommages par invocation sacrifiée."
+  },
+  "228": {
+    "name": "Symbiose",
+    "icon": "symbiose.png",
+    "description": "L'invocation est contrôlée par son invocateur."
+  },
+  "230": {
+    "name": "Épidémie",
+    "icon": "epidemie.svg",
+    "description": "La cible propage le poison autour d'elle à la fin de son tour."
+  },
+  "320": {
+    "name": "Invulnérable",
+    "icon": "invulnerable.svg",
+    "description": "Rend la cible insensible à toutes sortes de dégâts."
+  },
+  "322": {
+    "name": "Corruption",
+    "icon": "corruption.png",
+    "description": "Empêche l'entité dans cet état d'utiliser le moindre PA."
+  },
+  "338": {
+    "name": "Martyr",
+    "icon": "martyr.png",
+    "description": "A sa mort, l'invocation inflige des dommages en zone autour d’elle et augmente les dégâts des alliés dans la zone pendant 1 tour."
+  },
+  "386": {
+    "name": "Occupée",
+    "icon": "occupee.png",
+    "description": "Active l’état “Débordée” si Kanigroula utilise “Garderie” sur une seconde invocation."
+  },
+  "388": {
+    "name": "Débordée",
+    "icon": "debordee.png",
+    "description": "Au début de son tour de jeu, perd l’invulnérabilité pendant 2 tours et tue toutes les invocations sur le terrain."
+  },
+  "390": {
+    "name": "Soumission",
+    "icon": "soumission.png",
+    "description": "Aucun effet. Désigne l’invocation à garder en vie afin de retirer l’état invulnérable de Kanigroula."
+  },
+  "435": {
+    "name": "Souffle du Wukin 1/10",
+    "icon": "wukin_1.png",
+    "category": "wukin"
+  },
+  "436": {
+    "name": "Souffle du Wukin 2/10",
+    "icon": "wukin_2.png",
+    "category": "wukin"
+  },
+  "437": {
+    "name": "Souffle du Wukin 3/10",
+    "icon": "wukin_3.png",
+    "category": "wukin"
+  },
+  "438": {
+    "name": "Souffle du Wukin 4/10",
+    "icon": "wukin_4.png",
+    "category": "wukin"
+  },
+  "439": {
+    "name": "Souffle du Wukin 5/10",
+    "icon": "wukin_5.png",
+    "category": "wukin"
+  },
+  "440": {
+    "name": "Souffle du Wukin 6/10",
+    "icon": "wukin_6.png",
+    "category": "wukin"
+  },
+  "441": {
+    "name": "Souffle du Wukin 7/10",
+    "icon": "wukin_7.png",
+    "category": "wukin"
+  },
+  "442": {
+    "name": "Souffle du Wukin 8/10",
+    "icon": "wukin_8.png",
+    "category": "wukin"
+  },
+  "443": {
+    "name": "Souffle du Wukin 9/10",
+    "icon": "wukin_9.png",
+    "category": "wukin"
+  },
+  "444": {
+    "name": "Souffle du Wukin libéré",
+    "icon": "wukin_lib.png",
+    "description": "\n      Ino-Naru: sacrifice la moitié des dégâts reçus par ses alliés.\n      Kurookin: 2PM et 50 fuite.\n      Lichangoro: 2PM et 50 fuite.\n      Uchiwang: 2 PM, 50 fuite et 10% dommages distance.\n      Fangshu: aucun effet.\n      Shihan (boss): inflige un sort qui tape dans les 4 éléments.\n      Hanshi (boss): désactive l’état invulnérable de Shihan 3 tours."
+  },
+  "446": {
+    "name": "Souffle du Wukang 1/10",
+    "icon": "wukang_1.png",
+    "category": "wukang"
+  },
+  "447": {
+    "name": "Souffle du Wukang 2/10",
+    "icon": "wukang_2.png",
+    "category": "wukang"
+  },
+  "448": {
+    "name": "Souffle du Wukang 3/10",
+    "icon": "wukang_3.png",
+    "category": "wukang"
+  },
+  "449": {
+    "name": "Souffle du Wukang 4/10",
+    "icon": "wukang_4.png",
+    "category": "wukang"
+  },
+  "450": {
+    "name": "Souffle du Wukang 5/10",
+    "icon": "wukang_5.png",
+    "category": "wukang"
+  },
+  "451": {
+    "name": "Souffle du Wukang 6/10",
+    "icon": "wukang_6.png",
+    "category": "wukang"
+  },
+  "452": {
+    "name": "Souffle du Wukang 7/10",
+    "icon": "wukang_7.png",
+    "category": "wukang"
+  },
+  "453": {
+    "name": "Souffle du Wukang 8/10",
+    "icon": "wukang_8.png",
+    "category": "wukang"
+  },
+  "454": {
+    "name": "Souffle du Wukang 9/10",
+    "icon": "wukang_9.png",
+    "category": "wukang"
+  },
+  "455": {
+    "name": "Souffle du Wukang libéré",
+    "icon": "wukang_lib.png",
+    "description": "\n      Ino-Naru: 400 puissance et 50 tacle durant 2 tours.\n      Kurookin: Aucun effet.\n      Lichangoro: 400 puissance et -50 fuite durant 2 tours.\n      Uchiwang: 400 puissance et -50 fuite durant 2 tours.\n      Fangshu: 400 puissance et 50 tacle durant 2 tours.\n      Shihan (boss): désactive l’état invulnérable de Hanshi pour 3 tours.\n      Hanshi (boss): 400 puissance et 50 tacle durant 2 tours."
+  },
+  "456": {
+    "name": "Souffle du Wukang épuisé",
+    "icon": "wukang_epuise.png",
+    "description": "\nKurookin: +10% dégâts à distance."
+  },
+  "459": {
+    "name": "Modelage",
+    "icon": "modelage.svg",
+    "description": "Réduit les dégâts subits à distance de 70%."
+  },
+  "460": {
+    "name": "Humidification",
+    "icon": "humidification.svg",
+    "description": "Retire la ligne de vue des sorts."
+  },
+  "461": {
+    "name": "Cuisson",
+    "icon": "cuisson.svg",
+    "description": "Bonus de 150% de soin."
+  },
+  "462": {
+    "name": "Séchage",
+    "icon": "sechage.svg",
+    "description": "L'entité dans cet état est invulnérable."
+  },
+  "509": {
+    "name": "Marque Maudite",
+    "icon": "marque_maudite.png",
+    "description": "La cible recevra un malus sur le prochain sort de dégats subi en fonction de l'élément : \n - Eau : Subit des dommages eau supplémentaires. \n - Feu : Réduit la puissance pendant 1 tour. \n - Air : Repousse de 2 cases les entités au contact de la cible. \n - Terre : Réduit la durée des effets de 1 tour."
+  },
+  "517": {
+    "name": "Stimulé",
+    "icon": "stimule.png",
+    "description": "Empêche le gain de PA depuis un Eniripsa, un Xelor ou un Iop."
+  },
+  "521": {
+    "name": "Chausse-trappe",
+    "icon": "chausse_trappe.png",
+    "description": "Si le lanceur vous cible avec le sort 'Flèche de Poursuite', lui rend 3 PA."
+  },
+  "523": {
+    "name": "Lapineau",
+    "icon": "lapineau.png",
+    "description": "Le Lapino augmente la puissance de la cible pendant 1 tour."
+  },
+  "525": {
+    "name": "Lapifeu",
+    "icon": "lapifeu.png",
+    "description": "Le Lapino soigne la cible."
+  },
+  "527": {
+    "name": "Lapinair",
+    "icon": "lapinair.png",
+    "description": "Le Lapino donne 1 PM à la cible pendant 1 tour."
+  },
+  "529": {
+    "name": "Infecté I",
+    "icon": "infecte_i.png",
+    "description": "Si la 'Fiole Toxique' est tuée, inflige un petit montant de dégats air."
+  },
+  "531": {
+    "name": "Infecté II",
+    "icon": "infecte_ii.png",
+    "description": "Si la 'Fiole Toxique' est tuée, inflige un moyen montant de dégats air."
+  },
+  "533": {
+    "name": "Infecté III",
+    "icon": "infecte_iii.png",
+    "description": "Si la 'Fiole Toxique' est tuée, inflige un grand montant de dégats air."
+  },
+  "535": {
+    "name": "Marque Bénie",
+    "icon": "marque_benie.png",
+    "description": "La cible recevra un bonus de soin sur le prochain soin reçu."
+  },
+  "537": {
+    "name": "Brûlé",
+    "icon": "brule.png",
+    "description": "La cible subit des dégats feu au début de son tour."
+  },
+  "539": {
+    "name": "Gardien",
+    "icon": "gardien.png",
+    "description": "Le lanceur gagne un bonus de résistance et de portée pour 2 tours mais il perd 100 PM au 2ème tour."
+  },
+  "543": {
+    "name": "Martelé",
+    "icon": "martele.png",
+    "description": "La 'flèche Harcelante' du lanceur fera plus de dégats sur la cible en état 'Martelé'."
+  },
+  "563": {
+    "name": "Balise I",
+    "icon": "balise_i.png",
+    "description": "Le lanceur possède une balise sur le terrain."
+  },
+  "564": {
+    "name": "Balise II",
+    "icon": "balise_ii.png",
+    "description": "Le lanceur possède deux balises sur le terrain."
+  },
+  "565": {
+    "name": "Balise III",
+    "icon": "balise_iii.png",
+    "description": "Le lanceur possède trois balises sur le terrain."
+  },
+  "568": {
+    "name": "Perfusion",
+    "icon": "perfusion.png",
+    "description": "Permet à la cible de recevoir du soin lorsque le sacrieur attaque avec certains sorts."
+  },
+  "570": {
+    "name": "Coupe-deux",
+    "icon": "coupe_deux.png",
+    "description": "Le possesseur de l'état subira des dégats en fin de tour. \n Ils seront plus importants pour chaque personne de plus en état 'Coupe-Deux'."
+  },
+  "571": {
+    "name": "Sacrifié",
+    "icon": "sacrifie.png",
+    "description": "Le lanceur subi tous les dégats directs reçus par la cible."
+  },
+  "wukin": {
+    "name": "Souffle du Wukin (1-10)",
+    "icon": "wukin.png",
+    "description": "\n      Ino-Naru: Augmente lorsqu’il tape, diminue si tapé.\n      Kurookin: Augmente si tapé.\n      Lichangoro: Augmente si tapé.\n      Uchiwang: Augmente si tapé.\n      Fangshu: Augmente quand elle lance un sort eau.\n      Shihan (boss):  Augmente si tapé.\n      Hanshi (boss): Diminue si tapé, ne peut pas augmenter seul."
+  },
+  "wukang": {
+    "name": "Souffle du Wukang (1-10)",
+    "icon": "wukang.png",
+    "description": "\n      Ino-Naru: Augmente si tapé.\n      Kurookin: Diminue si tapé.\n      Lichangoro: Diminue si tapé, augmente via un sort.\n      Uchiwang: Augmente lorsqu’elle tape (jusqu’à 2 fois par tour), diminue si tapé.\n      Fangshu: Augmente quand elle lance un sort terre.\n      Shihan (boss): Diminue si tapé, ne peut pas augmenter seul.\n      Hanshi (boss): Augmente si tapé, augmente par un sort."
+  }
+}

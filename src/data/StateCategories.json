@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Etats génériques",
+    "states": [
+      2,
+      10,
+      6,
+      96,
+      7,
+      63,
+      97,
+      56,
+      192,
+      193,
+      76,
+      194,
+      42
+    ]
+  },
+  {
+    "name": "Etats de classe",
+    "sub": [
+      {
+        "name": "Steamer",
+        "states": [
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135
+        ]
+      },
+      {
+        "name": "Osamodas",
+        "states": [
+          209,
+          228,
+          338,
+          207,
+          74
+        ]
+      },
+      {
+        "name": "Roublard",
+        "states": [
+          92,
+          121,
+          122,
+          123
+        ]
+      },
+      {
+        "name": "Crâ",
+        "states": [
+          487,
+          521,
+          537,
+          539,
+          543,
+          563,
+          564,
+          565
+        ]
+      },
+      {
+        "name": "Eniripsa",
+        "states": [
+          519,
+          523,
+          525,
+          527,
+          529,
+          531,
+          533,
+          535,
+          509
+        ]
+      },
+      {
+        "name": "Sram",
+        "states": [
+          230
+        ]
+      },
+      {
+        "name": "Enutrof",
+        "states": [
+          322
+        ]
+      },
+      {
+        "name": "Sacrieur",
+        "states": [
+          568,
+          570,
+          571
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Etats PvM",
+    "sub": [
+      {
+        "name": "Kralamoure Géant",
+        "states": [
+          35,
+          36,
+          37,
+          38,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "name": "Kimbo",
+        "states": [
+          29,
+          30
+        ]
+      },
+      {
+        "name": "Kanigroula",
+        "states": [
+          386,
+          388,
+          390
+        ]
+      },
+      {
+        "name": "Vulkania",
+        "states": [
+          105,
+          106,
+          107,
+          108
+        ]
+      },
+      {
+        "name": "Terrdala",
+        "states": [
+          459,
+          460,
+          461,
+          462
+        ]
+      },
+      {
+        "name": "Aerdala",
+        "states": [
+          "wukin",
+          444,
+          "wukang",
+          455,
+          456
+        ]
+      }
+    ]
+  }
+]
