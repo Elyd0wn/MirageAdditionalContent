@@ -384,6 +384,11 @@
     "icon": "sechage.svg",
     "description": "L'entité dans cet état est invulnérable."
   },
+  "487": {
+    "name": "Artifice",
+    "icon": "artifice.png",
+    "description": "Subit une ligne de dégats supplémentaire en début de tour."
+  },
   "509": {
     "name": "Marque Maudite",
     "icon": "marque_maudite.png",
