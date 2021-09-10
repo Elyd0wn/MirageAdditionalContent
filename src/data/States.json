@@ -384,10 +384,25 @@
     "icon": "sechage.svg",
     "description": "L'entité dans cet état est invulnérable."
   },
+  "484": {
+    "name": "Chimi Nuki",
+    "icon": "chimi_nuki.png",
+    "description": "Rend le lanceur invisible 1 tour, indéplaçable 2 tours et lui débloque un nouveau sort."
+  },
+  "485": {
+    "name": "Mōryō Nuki",
+    "icone": "moryo_nuki.png",
+    "description": "Rend le lanceur invisible 1 tour, intaclable 2 tours et lui débloque un nouveau sort."
+  },
   "487": {
     "name": "Artifice",
     "icon": "artifice.png",
     "description": "Subit une ligne de dégats supplémentaire en début de tour."
+  },
+  "501": {
+    "name": "Jarre Ivre",
+    "icon": "jarre_ivre.png",
+    "description": "La jarre prend vie et peut se déplacer."
   },
   "509": {
     "name": "Marque Maudite",
