@@ -81,6 +81,19 @@
         ]
       },
       {
+        "name": "Iop",
+        "states": [
+          151
+        ]
+      },
+      {
+        "name": "Pandawa",
+        "states": [
+          8,
+          3
+        ]
+      },
+      {
         "name": "Sram",
         "states": [
           230

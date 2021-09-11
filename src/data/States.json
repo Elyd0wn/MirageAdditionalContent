@@ -1,8 +1,18 @@
 {
+  "1": {
+    "name": "Saoul",
+    "icon": "saoul.png",
+    "description": "Permet au Pandawa d'utiliser certains sorts, empêche l'utilisation d'autres."
+    },
   "2": {
     "name": "Chercheur d'âmes",
     "icon": "capture_ame.png",
     "description": "Active la capture des âmes des créatures vaincues à la fin du combat."
+  },
+  "3": {
+    "name": "Porteur",
+    "icon": "porteur.png",
+    "description": "Le porteur reçoit les dégâts, soins et envoûtements à la place du porté. Le porteur ne peut plus utiliser que les sorts Chamrak ou vertige."
   },
   "6": {
     "name": "Enraciné",
@@ -13,6 +23,11 @@
     "name": "Pesanteur",
     "icon": "pesanteur.png",
     "description": "Empêche toute sorte de téléportation ou d'échange de place avec une cible sous cet état."
+  },
+  "8": {
+    "name": "Porté",
+    "icon": "porte.png",
+    "description": "Le porté transfère les dégâts, soins et envoûtement reçus au porteur."
   },
   "10": {
     "name": "Apprivoisement",
@@ -198,6 +213,11 @@
     "name": "Evolution III",
     "icon": "evolution_3.svg",
     "description": "Harponneuse : Permet à la tourelle de taper 3 cibles, à 7 PO maximum et débloque son sort spécial. \n Tactirelle : Permet à la tourelle de pousser de 6 cases, à 6 PO maximum et débloque son sort spécial. \n Gardienne : Permet à la tourelle de soigner 3 cibles à 6 PO maximum et débloque son sort spécial."
+  },
+  "151": {
+    "name": "Précipité",
+    "icon": "precipite.png",
+    "description": "Empêche l'utilisation d'une arme et du sort 'Colère de Iop'. Au prochain tour, la cible perdra des points d'action suivant le niveau du sort."
   },
   "185": {
     "name": "Rage",
