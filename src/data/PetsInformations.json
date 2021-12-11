@@ -675,10 +675,6 @@
 				"effectName": "Dommages"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"943"
 		]
@@ -707,10 +703,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"3990"
 		]
@@ -803,10 +795,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 11,
-			"max": 36
-		},
 		"hormone_drop_monsters": [
 			"457"
 		]
@@ -899,10 +887,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 11,
-			"max": 36
-		},
 		"hormone_drop_monsters": [
 			"457"
 		]
@@ -995,10 +979,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 11,
-			"max": 36
-		},
 		"hormone_drop_monsters": [
 			"457"
 		]
@@ -1091,10 +1071,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 11,
-			"max": 36
-		},
 		"hormone_drop_monsters": [
 			"457"
 		]
@@ -1137,10 +1113,6 @@
 				"effectName": "Pods"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"792"
 		]
@@ -1393,10 +1365,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"928"
 		]
@@ -1649,10 +1617,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"147"
 		]
@@ -1843,10 +1807,6 @@
 				"effectName": "Chance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 18
-		},
 		"hormone_drop_monsters": [
 			"147"
 		]
@@ -1867,10 +1827,6 @@
 			"effectId": 0,
 			"effectName": "Vitalité"
 		}],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"2854"
 		]
@@ -1984,10 +1940,6 @@
 				"effectName": "% Résistance Neutre"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"252"
 		]
@@ -2996,10 +2948,6 @@
 				"effectName": "Sagesse"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"854"
 		]
@@ -3020,10 +2968,6 @@
 			"effectId": 0,
 			"effectName": "Dommages"
 		}],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"2877"
 		]
@@ -3157,10 +3101,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"3585"
 		]
@@ -3413,10 +3353,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"928"
 		]
@@ -4299,10 +4235,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"2975"
 		]
@@ -4323,10 +4255,6 @@
 			"effectId": 0,
 			"effectName": "Sagesse"
 		}],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"2967"
 		]
@@ -4369,10 +4297,6 @@
 				"effectName": "Sagesse"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"780"
 		]
@@ -4807,10 +4731,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"3954"
 		]
@@ -4831,10 +4751,6 @@
 			"effectId": 0,
 			"effectName": "Soins"
 		}],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"2848"
 		]
@@ -5725,10 +5641,6 @@
 				"effectName": "Force"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"180"
 		]
@@ -5764,10 +5676,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"121"
 		]
@@ -5796,10 +5704,6 @@
 				"effectName": "Prospection"
 			}
 		],
-		"interval": {
-			"min": 24,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"226"
 		]
@@ -5849,10 +5753,6 @@
 				"effectName": "Vitalité"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"3944"
 		]
@@ -6287,10 +6187,6 @@
 				"effectName": "Initiative"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"3774"
 		]
@@ -6424,10 +6320,6 @@
 				"effectName": "Chance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -6561,10 +6453,6 @@
 				"effectName": "Agilité"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -6698,10 +6586,6 @@
 				"effectName": "Soins"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -6835,10 +6719,6 @@
 				"effectName": "Intelligence"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -6972,10 +6852,6 @@
 				"effectName": "Force"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -7109,10 +6985,6 @@
 				"effectName": "Dommages"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"800"
 		]
@@ -7154,10 +7026,6 @@
 				"effectName": "Dommages"
 			}
 		],
-		"interval": {
-			"min": 12,
-			"max": 72
-		},
 		"hormone_drop_monsters": []
 	},
 	"8677": {
@@ -7176,10 +7044,6 @@
 			"effectId": 0,
 			"effectName": "Soins"
 		}],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"180"
 		]
@@ -7432,10 +7296,6 @@
 				"effectName": "Pods"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"928"
 		]
@@ -8318,10 +8178,6 @@
 				"effectName": "Prospection"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"289"
 		]
@@ -8456,10 +8312,6 @@
 				"effectName": "Agilité"
 			}
 		],
-		"interval": {
-			"min": 24,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"180"
 		]
@@ -8712,10 +8564,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"928"
 		]
@@ -9150,10 +8998,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 5,
-			"max": 72
-		},
 		"hormone_drop_monsters": [
 			"232"
 		]
@@ -9406,10 +9250,6 @@
 				"effectName": "Puissance"
 			}
 		],
-		"interval": {
-			"min": 11,
-			"max": 36
-		},
 		"hormone_drop_monsters": [
 			"232"
 		]
