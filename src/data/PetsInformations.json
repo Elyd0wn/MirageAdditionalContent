@@ -15545,6 +15545,30 @@
 				"effectName": "Chance"
 			},
 			{
+					"quantity": 5,
+					"id": 3754,
+					"effectId": 0,
+					"effectName": "Chance"
+				},
+				{
+					"quantity": 5,
+					"id": 3756,
+					"effectId": 0,
+					"effectName": "Chance"
+				},
+				{
+					"quantity": 5,
+					"id": 3758,
+					"effectId": 0,
+					"effectName": "Chance"
+				},
+				{
+					"quantity": 5,
+					"id": 3760,
+					"effectId": 0,
+					"effectName": "Chance"
+				},
+			{
 				"quantity": 1,
 				"id": 792,
 				"effectId": 0,
